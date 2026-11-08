@@ -1,4 +1,4 @@
-"""Step 5 - Text-to-speech in a background thread (so the video never freezes)."""
+
 import queue
 import threading
 

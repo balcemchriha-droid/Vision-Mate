@@ -1,0 +1,2221 @@
+time,class,confidence,position,distance,closeness
+12:37:23,sports ball,0.49,ahead,far,0.22
+12:37:24,person,0.91,ahead,near,0.38
+12:37:25,person,0.91,ahead,near,0.39
+12:37:26,person,0.91,ahead,near,0.39
+12:37:27,person,0.91,ahead,near,0.39
+12:37:28,person,0.92,ahead,near,0.40
+12:37:29,person,0.93,ahead,near,0.46
+12:37:30,person,0.78,ahead,very close,0.51
+12:37:31,person,0.80,ahead,very close,0.56
+12:37:32,person,0.66,ahead,very close,0.64
+12:37:33,person,0.93,ahead,very close,0.51
+12:37:34,person,0.92,ahead,near,0.44
+12:37:35,person,0.92,ahead,near,0.42
+12:37:36,person,0.89,ahead,very close,0.51
+12:37:37,person,0.89,ahead,very close,0.62
+12:37:37,kite,0.50,ahead,far,0.10
+12:37:38,person,0.92,ahead,near,0.47
+12:37:39,person,0.92,ahead,near,0.44
+12:37:40,person,0.87,ahead,near,0.37
+12:37:40,kite,0.44,ahead,far,0.11
+12:37:41,person,0.87,ahead,near,0.36
+12:37:41,kite,0.53,ahead,far,0.11
+12:37:42,person,0.89,ahead,near,0.36
+12:37:44,person,0.90,ahead,near,0.36
+12:37:44,kite,0.47,ahead,far,0.11
+12:37:45,person,0.90,ahead,near,0.36
+12:37:45,kite,0.44,ahead,far,0.11
+12:37:46,person,0.92,ahead,near,0.38
+12:37:46,kite,0.43,ahead,far,0.11
+12:37:47,person,0.69,ahead,near,0.40
+12:37:47,person,0.46,ahead,far,0.20
+12:37:48,kite,0.65,ahead,far,0.11
+12:37:49,person,0.46,ahead,far,0.12
+12:37:49,kite,0.57,ahead,far,0.11
+12:37:50,person,0.46,ahead,far,0.11
+12:37:50,kite,0.58,ahead,far,0.11
+12:37:51,person,0.44,ahead,far,0.11
+12:37:51,kite,0.61,ahead,far,0.11
+12:37:52,person,0.57,ahead,far,0.24
+12:37:52,kite,0.60,ahead,far,0.11
+12:37:53,person,0.87,ahead,near,0.27
+12:37:53,kite,0.46,ahead,far,0.11
+12:37:54,person,0.89,ahead,near,0.30
+12:37:54,kite,0.47,ahead,far,0.11
+12:37:55,person,0.86,ahead,near,0.30
+12:37:56,person,0.79,ahead,near,0.30
+12:37:57,person,0.58,ahead,near,0.27
+12:37:58,person,0.84,ahead,far,0.22
+12:38:00,person,0.86,ahead,far,0.20
+12:38:01,person,0.62,ahead,far,0.24
+12:38:02,person,0.62,ahead,far,0.21
+12:38:03,person,0.77,ahead,far,0.20
+12:38:05,person,0.90,ahead,far,0.20
+12:38:06,person,0.59,ahead,near,0.44
+12:38:07,person,0.83,ahead,near,0.46
+12:38:08,person,0.55,ahead,near,0.47
+12:38:09,person,0.49,on your left,near,0.34
+12:38:10,person,0.79,on your left,near,0.34
+12:38:10,teddy bear,0.78,ahead,far,0.25
+12:38:11,person,0.70,on your left,near,0.42
+12:38:11,teddy bear,0.63,ahead,near,0.30
+12:38:12,person,0.83,on your left,near,0.41
+12:38:12,teddy bear,0.73,ahead,near,0.33
+12:38:13,person,0.80,ahead,near,0.36
+12:38:13,teddy bear,0.62,ahead,far,0.25
+12:38:14,person,0.74,ahead,near,0.26
+12:38:14,teddy bear,0.81,ahead,far,0.25
+12:38:15,teddy bear,0.87,ahead,near,0.25
+12:38:16,person,0.66,ahead,near,0.36
+12:38:16,teddy bear,0.51,ahead,far,0.24
+12:38:17,person,0.63,on your right,near,0.36
+12:38:17,teddy bear,0.58,ahead,near,0.28
+12:38:18,person,0.61,on your right,near,0.43
+12:38:18,teddy bear,0.88,ahead,near,0.34
+12:38:19,person,0.87,on your right,near,0.41
+12:38:19,teddy bear,0.63,ahead,near,0.28
+12:38:20,person,0.81,on your right,near,0.43
+12:38:20,teddy bear,0.67,on your right,near,0.31
+12:38:21,person,0.80,ahead,near,0.35
+12:38:21,teddy bear,0.92,on your right,near,0.31
+12:38:22,teddy bear,0.84,on your right,near,0.33
+12:38:22,person,0.85,ahead,near,0.29
+12:38:23,person,0.92,on your right,near,0.42
+12:38:24,person,0.88,on your right,near,0.40
+12:38:24,teddy bear,0.90,ahead,near,0.34
+12:38:25,person,0.89,on your right,near,0.41
+12:38:25,teddy bear,0.72,ahead,near,0.32
+12:38:26,person,0.73,on your right,near,0.48
+12:38:26,teddy bear,0.89,ahead,near,0.40
+12:38:27,teddy bear,0.93,ahead,near,0.44
+12:38:28,person,0.58,on your right,near,0.46
+12:38:28,teddy bear,0.91,ahead,near,0.40
+12:38:29,person,0.57,on your right,near,0.45
+12:38:29,teddy bear,0.90,ahead,near,0.38
+12:38:31,person,0.71,on your right,near,0.45
+12:38:31,teddy bear,0.91,ahead,near,0.33
+12:38:32,person,0.56,on your right,near,0.44
+12:38:32,teddy bear,0.89,ahead,near,0.33
+12:38:33,person,0.64,on your right,near,0.44
+12:38:33,teddy bear,0.89,ahead,near,0.34
+12:38:34,person,0.53,on your right,near,0.50
+12:38:34,teddy bear,0.92,ahead,near,0.33
+12:38:35,person,0.60,on your right,near,0.44
+12:38:35,teddy bear,0.93,ahead,near,0.33
+12:38:36,person,0.61,on your right,near,0.44
+12:38:36,teddy bear,0.93,ahead,near,0.33
+12:38:37,person,0.58,on your right,near,0.44
+12:38:37,teddy bear,0.92,ahead,near,0.33
+12:38:38,person,0.47,on your right,near,0.43
+12:38:38,teddy bear,0.87,ahead,near,0.34
+12:38:39,person,0.77,on your right,near,0.39
+12:38:39,person,0.60,ahead,near,0.30
+12:38:40,person,0.90,on your right,near,0.43
+12:38:41,person,0.81,on your right,near,0.28
+12:38:41,teddy bear,0.46,on your right,near,0.27
+12:38:41,person,0.41,ahead,far,0.10
+12:38:42,person,0.49,on your right,near,0.38
+12:38:43,teddy bear,0.91,ahead,very close,0.66
+12:38:44,cat,0.66,ahead,very close,0.69
+12:38:45,person,0.87,on your right,near,0.40
+12:38:45,teddy bear,0.88,ahead,far,0.23
+12:38:46,cat,0.48,ahead,very close,0.73
+12:38:47,person,0.88,on your right,near,0.40
+12:38:48,person,0.80,on your right,near,0.43
+12:38:48,teddy bear,0.80,ahead,near,0.32
+12:38:49,person,0.71,on your right,near,0.46
+12:38:50,person,0.77,on your right,near,0.44
+12:38:51,person,0.80,ahead,near,0.45
+12:38:52,person,0.78,ahead,near,0.46
+12:38:52,teddy bear,0.46,ahead,far,0.21
+12:38:53,person,0.85,ahead,near,0.45
+12:38:54,person,0.72,ahead,near,0.46
+12:38:55,person,0.61,on your right,near,0.41
+12:38:56,person,0.59,on your right,near,0.41
+12:38:57,person,0.61,on your right,near,0.41
+12:38:58,person,0.84,ahead,near,0.45
+12:39:00,person,0.86,ahead,near,0.45
+12:39:01,person,0.84,ahead,near,0.45
+12:39:02,person,0.87,ahead,near,0.45
+12:39:03,person,0.92,on your right,near,0.42
+12:39:03,teddy bear,0.64,ahead,far,0.20
+12:39:04,person,0.88,on your right,near,0.36
+12:39:05,person,0.79,on your right,near,0.37
+12:39:06,person,0.80,ahead,near,0.36
+12:39:07,person,0.79,ahead,far,0.24
+12:39:07,teddy bear,0.64,on your left,far,0.22
+12:39:08,person,0.89,on your left,near,0.46
+12:39:09,person,0.88,ahead,very close,0.55
+12:39:10,person,0.89,on your left,very close,0.53
+12:39:12,person,0.55,on your left,near,0.33
+12:39:13,person,0.69,ahead,far,0.15
+12:39:14,person,0.86,ahead,far,0.14
+12:39:14,kite,0.55,ahead,far,0.11
+12:39:15,person,0.90,ahead,near,0.29
+12:39:16,person,0.92,on your left,near,0.43
+12:39:17,person,0.93,on your left,near,0.47
+12:39:18,person,0.92,on your left,near,0.46
+12:39:19,person,0.93,on your left,near,0.45
+12:39:20,person,0.94,on your left,near,0.46
+12:39:21,person,0.90,on your left,near,0.45
+12:39:22,person,0.94,on your left,near,0.45
+12:39:23,person,0.90,on your left,near,0.45
+12:39:24,person,0.94,on your left,near,0.42
+12:39:25,person,0.50,ahead,far,0.18
+12:39:54,person,0.77,ahead,far,0.14
+12:39:55,person,0.87,ahead,far,0.15
+12:39:56,person,0.85,ahead,far,0.15
+12:40:06,person,0.80,ahead,far,0.14
+12:40:07,person,0.86,ahead,far,0.17
+12:40:08,person,0.88,ahead,near,0.26
+12:40:09,person,0.84,on your left,far,0.25
+12:40:09,kite,0.49,ahead,far,0.10
+12:40:15,person,0.88,ahead,far,0.11
+12:40:16,person,0.91,on your left,far,0.22
+12:40:17,person,0.93,ahead,very close,0.62
+12:40:18,person,0.87,on your left,very close,0.54
+12:40:19,person,0.91,ahead,very close,0.51
+12:40:20,person,0.94,on your left,near,0.47
+12:40:21,person,0.93,on your left,near,0.47
+12:40:22,person,0.94,on your left,near,0.48
+12:40:23,person,0.94,on your left,near,0.49
+12:40:24,person,0.94,on your left,near,0.48
+12:40:26,person,0.92,on your left,near,0.49
+12:40:26,cell phone,0.48,ahead,far,0.11
+12:40:27,person,0.94,on your left,near,0.49
+12:40:28,person,0.94,on your left,near,0.48
+12:40:29,person,0.94,on your left,near,0.47
+12:40:30,person,0.93,on your left,near,0.48
+12:40:31,person,0.91,on your left,near,0.49
+12:40:32,person,0.93,ahead,very close,0.54
+12:40:33,person,0.93,ahead,very close,0.55
+12:40:34,person,0.90,on your left,near,0.49
+12:40:35,person,0.89,on your left,near,0.49
+12:40:36,person,0.93,ahead,very close,0.53
+12:40:36,cell phone,0.56,on your left,far,0.10
+12:40:37,person,0.93,ahead,very close,0.52
+12:40:37,cell phone,0.53,on your left,far,0.09
+12:40:38,person,0.93,ahead,very close,0.52
+12:40:38,cell phone,0.43,on your left,far,0.09
+12:40:39,person,0.93,on your left,near,0.49
+12:40:40,person,0.93,on your left,near,0.49
+12:40:42,person,0.93,on your left,near,0.49
+12:40:43,person,0.92,on your left,near,0.47
+12:40:44,person,0.94,on your left,near,0.47
+12:40:45,person,0.94,on your left,near,0.47
+12:40:46,person,0.93,on your left,near,0.47
+12:40:47,person,0.93,on your left,near,0.47
+12:40:47,cell phone,0.55,ahead,far,0.12
+12:40:48,person,0.92,on your left,near,0.47
+12:40:49,person,0.93,on your left,near,0.46
+12:40:49,cell phone,0.40,ahead,far,0.13
+12:40:50,person,0.93,on your left,near,0.46
+12:40:52,person,0.93,on your left,near,0.47
+12:40:53,person,0.93,on your left,near,0.47
+12:40:53,cell phone,0.48,ahead,far,0.13
+12:40:54,person,0.92,on your left,near,0.47
+12:40:55,person,0.91,on your left,near,0.48
+12:40:56,person,0.88,on your left,near,0.48
+12:40:57,person,0.91,on your left,near,0.48
+12:40:58,person,0.90,on your left,near,0.49
+12:41:00,person,0.89,on your left,near,0.47
+12:41:01,person,0.90,on your left,near,0.46
+12:41:02,person,0.91,on your left,near,0.47
+12:41:03,person,0.91,on your left,near,0.47
+12:41:04,person,0.92,on your left,near,0.46
+12:41:05,person,0.91,on your left,near,0.47
+12:41:06,person,0.90,on your left,near,0.46
+12:41:07,person,0.93,on your left,near,0.47
+12:41:08,person,0.92,on your left,near,0.46
+12:41:08,cup,0.57,ahead,far,0.04
+12:41:10,person,0.93,on your left,near,0.47
+12:41:10,cup,0.42,ahead,far,0.04
+12:41:11,person,0.92,on your left,near,0.47
+12:41:11,cup,0.48,ahead,far,0.04
+12:41:12,person,0.91,on your left,near,0.46
+12:41:13,person,0.92,on your left,near,0.47
+12:41:13,cup,0.46,ahead,far,0.05
+12:41:14,person,0.94,on your left,near,0.46
+12:41:15,person,0.92,on your left,near,0.46
+12:41:16,person,0.93,on your left,near,0.47
+12:41:17,person,0.93,on your left,near,0.47
+12:41:17,cup,0.53,ahead,far,0.05
+12:41:18,person,0.91,on your left,near,0.46
+12:41:19,person,0.92,on your left,near,0.46
+12:41:20,person,0.92,on your left,near,0.47
+12:41:21,person,0.93,on your left,near,0.47
+12:41:23,person,0.90,on your left,near,0.47
+12:41:24,person,0.91,on your left,near,0.46
+12:41:25,person,0.92,on your left,near,0.47
+12:41:26,person,0.91,on your left,near,0.47
+12:41:27,person,0.92,on your left,near,0.46
+12:41:28,person,0.91,on your left,near,0.47
+12:41:29,person,0.91,on your left,near,0.47
+12:41:30,person,0.91,on your left,near,0.48
+12:41:31,person,0.90,on your left,near,0.47
+12:41:32,person,0.90,on your left,near,0.47
+12:41:32,book,0.47,ahead,far,0.16
+12:41:33,person,0.89,on your left,near,0.47
+12:41:33,book,0.44,ahead,far,0.15
+12:41:34,person,0.92,on your left,near,0.46
+12:41:34,book,0.48,ahead,far,0.15
+12:41:35,person,0.92,on your left,near,0.47
+12:41:35,book,0.47,ahead,far,0.15
+12:41:36,person,0.91,on your left,near,0.47
+12:41:36,book,0.43,ahead,far,0.15
+12:41:37,person,0.90,on your left,near,0.47
+12:41:37,book,0.57,ahead,far,0.16
+12:41:39,person,0.91,on your left,near,0.47
+12:41:39,book,0.47,ahead,far,0.16
+12:41:40,person,0.92,on your left,near,0.47
+12:41:41,person,0.94,on your left,near,0.47
+12:41:42,person,0.94,on your left,near,0.47
+12:41:43,person,0.94,on your left,near,0.48
+12:41:44,person,0.95,on your left,near,0.48
+12:41:44,cell phone,0.50,ahead,far,0.11
+12:41:45,person,0.95,on your left,near,0.47
+12:41:46,person,0.94,on your left,near,0.47
+12:41:47,person,0.95,on your left,near,0.47
+12:41:48,person,0.95,on your left,near,0.47
+12:41:50,person,0.94,on your left,near,0.47
+12:41:51,person,0.95,on your left,near,0.48
+12:41:51,cell phone,0.56,ahead,far,0.13
+12:41:52,person,0.95,on your left,near,0.48
+12:41:52,cell phone,0.50,ahead,far,0.13
+12:41:53,person,0.95,on your left,near,0.47
+12:41:54,person,0.94,on your left,near,0.47
+12:41:55,person,0.94,on your left,near,0.47
+12:41:55,cell phone,0.41,ahead,far,0.12
+12:41:56,person,0.94,on your left,near,0.47
+12:41:57,person,0.94,on your left,near,0.47
+12:41:58,person,0.94,on your left,near,0.47
+12:41:58,cell phone,0.40,ahead,far,0.14
+12:41:59,person,0.94,on your left,near,0.47
+12:41:59,cell phone,0.46,ahead,far,0.14
+12:42:00,person,0.94,on your left,near,0.47
+12:42:02,person,0.94,on your left,near,0.47
+12:42:03,person,0.94,on your left,near,0.47
+12:42:04,person,0.94,on your left,near,0.47
+12:42:05,person,0.88,on your left,near,0.46
+12:42:06,person,0.87,on your left,near,0.46
+12:42:07,person,0.84,on your left,near,0.46
+12:42:08,person,0.84,on your left,near,0.46
+12:42:09,person,0.84,on your left,near,0.47
+12:42:10,person,0.90,on your left,near,0.47
+12:42:11,person,0.88,on your left,near,0.46
+12:42:12,person,0.88,on your left,near,0.46
+12:42:13,person,0.87,on your left,near,0.46
+12:42:14,person,0.89,on your left,near,0.46
+12:42:15,person,0.87,on your left,near,0.46
+12:42:17,person,0.87,on your left,near,0.46
+12:42:18,person,0.87,on your left,near,0.47
+12:42:19,person,0.88,on your left,near,0.47
+12:42:20,person,0.89,on your left,near,0.47
+12:42:21,person,0.85,on your left,near,0.47
+12:42:22,person,0.88,on your left,near,0.47
+12:42:23,person,0.88,on your left,near,0.47
+12:42:24,person,0.90,on your left,near,0.47
+12:42:25,person,0.88,on your left,near,0.47
+12:42:26,person,0.92,ahead,very close,0.58
+12:42:27,person,0.92,ahead,very close,0.56
+12:42:28,person,0.85,on your left,near,0.25
+12:42:36,person,0.55,on your left,far,0.10
+12:42:37,person,0.78,on your left,far,0.13
+12:42:38,person,0.88,ahead,far,0.17
+12:42:39,person,0.65,on your left,near,0.31
+12:42:41,person,0.87,on your left,far,0.24
+12:42:47,person,0.77,ahead,far,0.09
+12:42:48,person,0.88,ahead,far,0.14
+12:42:49,person,0.85,on your left,far,0.22
+12:42:53,person,0.82,on your left,far,0.19
+12:42:54,person,0.69,ahead,far,0.13
+12:42:55,person,0.78,ahead,far,0.14
+12:42:56,person,0.64,ahead,far,0.15
+12:42:57,person,0.77,ahead,far,0.16
+12:42:59,person,0.87,ahead,far,0.17
+12:43:00,person,0.82,ahead,far,0.17
+12:43:01,person,0.79,ahead,far,0.16
+12:43:02,person,0.85,ahead,far,0.15
+12:43:05,person,0.85,ahead,far,0.14
+12:43:06,person,0.69,ahead,far,0.11
+12:43:07,person,0.75,ahead,far,0.13
+12:43:19,person,0.85,ahead,far,0.16
+12:43:20,person,0.86,ahead,far,0.15
+12:43:21,person,0.77,ahead,far,0.11
+12:43:22,person,0.81,on your left,far,0.11
+12:43:23,person,0.85,on your left,far,0.12
+12:43:24,person,0.85,on your left,far,0.13
+12:43:25,person,0.89,on your left,far,0.15
+12:43:26,person,0.85,on your left,near,0.25
+12:43:27,person,0.87,on your left,near,0.35
+12:43:28,person,0.91,ahead,very close,0.53
+12:43:29,person,0.90,ahead,very close,0.56
+12:43:30,person,0.91,ahead,very close,0.56
+12:43:31,person,0.89,ahead,very close,0.56
+12:43:33,person,0.91,ahead,very close,0.58
+12:43:34,person,0.90,ahead,very close,0.57
+12:43:35,person,0.90,ahead,very close,0.56
+12:43:36,person,0.89,ahead,very close,0.54
+12:43:37,person,0.91,ahead,near,0.50
+12:43:38,person,0.91,ahead,near,0.49
+12:43:39,person,0.92,ahead,near,0.50
+12:43:40,person,0.91,ahead,very close,0.50
+12:43:41,person,0.91,ahead,near,0.50
+12:43:42,person,0.91,ahead,very close,0.50
+12:43:43,person,0.93,on your left,near,0.38
+12:44:18,person,0.84,on your left,near,0.26
+12:44:19,person,0.86,on your left,near,0.43
+12:44:20,person,0.88,on your left,near,0.43
+12:44:21,person,0.88,on your left,near,0.44
+12:44:22,person,0.90,on your left,near,0.48
+12:44:23,person,0.90,on your left,near,0.46
+12:44:24,person,0.92,on your left,near,0.38
+12:44:26,person,0.92,on your left,near,0.36
+12:44:27,person,0.90,ahead,very close,0.55
+12:44:28,person,0.90,ahead,near,0.46
+12:44:28,remote,0.43,on your left,far,0.12
+12:44:29,person,0.87,ahead,near,0.42
+12:44:30,person,0.83,ahead,near,0.40
+12:44:31,person,0.70,ahead,near,0.35
+12:44:32,person,0.85,ahead,near,0.41
+12:44:33,person,0.45,ahead,near,0.32
+12:44:34,person,0.83,ahead,near,0.41
+12:44:35,person,0.69,ahead,near,0.36
+12:44:36,person,0.85,on your left,near,0.41
+12:44:37,person,0.87,on your left,near,0.42
+12:44:38,person,0.86,ahead,near,0.40
+12:44:39,person,0.85,on your left,near,0.41
+12:44:40,person,0.90,on your left,near,0.42
+12:44:41,person,0.86,on your left,near,0.41
+12:44:43,person,0.86,on your left,near,0.40
+12:44:44,person,0.89,on your left,near,0.41
+12:44:45,person,0.91,on your left,near,0.41
+12:44:46,person,0.89,ahead,near,0.39
+12:44:47,person,0.89,ahead,near,0.39
+12:44:48,person,0.86,ahead,near,0.39
+12:44:49,person,0.85,ahead,near,0.40
+12:44:50,person,0.89,ahead,near,0.39
+12:44:51,person,0.90,ahead,near,0.39
+12:44:52,person,0.90,ahead,near,0.39
+12:44:53,person,0.88,ahead,near,0.38
+12:44:55,person,0.89,ahead,near,0.39
+12:44:56,person,0.89,ahead,near,0.39
+12:44:57,person,0.88,ahead,near,0.39
+12:44:58,person,0.87,ahead,near,0.39
+12:44:58,cup,0.47,on your left,far,0.09
+12:44:59,person,0.87,ahead,near,0.38
+12:45:00,person,0.88,ahead,near,0.37
+12:45:01,person,0.89,ahead,near,0.37
+12:45:02,person,0.89,ahead,near,0.38
+12:45:03,person,0.87,ahead,near,0.37
+12:45:03,cup,0.41,on your left,far,0.08
+12:45:04,person,0.87,ahead,near,0.38
+12:45:06,person,0.88,ahead,near,0.38
+12:45:07,person,0.88,ahead,near,0.39
+12:45:08,person,0.89,ahead,near,0.39
+12:45:09,person,0.87,ahead,near,0.39
+12:45:10,person,0.88,ahead,near,0.39
+12:45:10,cup,0.46,on your left,far,0.09
+12:45:11,person,0.87,ahead,near,0.39
+12:45:12,person,0.88,ahead,near,0.39
+12:45:13,person,0.87,ahead,near,0.39
+12:45:14,person,0.87,ahead,near,0.38
+12:45:16,person,0.86,ahead,near,0.38
+12:45:17,person,0.86,ahead,near,0.39
+12:45:18,person,0.87,ahead,near,0.38
+12:45:19,person,0.88,ahead,near,0.39
+12:45:20,person,0.87,ahead,near,0.39
+12:45:21,person,0.89,ahead,near,0.39
+12:45:22,person,0.87,ahead,near,0.39
+12:45:23,person,0.89,ahead,near,0.39
+12:45:24,person,0.86,ahead,near,0.38
+12:45:25,person,0.88,ahead,near,0.38
+12:45:26,person,0.88,ahead,near,0.37
+12:45:27,person,0.88,ahead,near,0.38
+12:45:28,person,0.90,ahead,near,0.39
+12:45:30,person,0.89,ahead,near,0.39
+12:45:30,cell phone,0.47,on your left,far,0.09
+12:45:31,person,0.89,ahead,near,0.39
+12:45:32,person,0.89,ahead,near,0.39
+12:45:33,person,0.90,ahead,near,0.39
+12:45:34,person,0.89,ahead,near,0.38
+12:45:34,cup,0.66,on your left,far,0.08
+12:45:35,person,0.89,ahead,near,0.37
+12:45:35,cup,0.49,on your left,far,0.08
+12:45:36,person,0.90,ahead,near,0.38
+12:45:36,cup,0.51,on your left,far,0.08
+12:45:37,person,0.89,ahead,near,0.39
+12:45:37,cup,0.72,on your left,far,0.08
+12:45:38,person,0.90,ahead,near,0.38
+12:45:38,cup,0.59,on your left,far,0.08
+12:45:39,person,0.88,ahead,near,0.37
+12:45:40,person,0.89,ahead,near,0.37
+12:45:41,person,0.90,ahead,near,0.38
+12:45:42,person,0.90,ahead,near,0.38
+12:45:44,person,0.90,ahead,near,0.38
+12:45:45,person,0.90,ahead,near,0.38
+12:45:46,person,0.90,ahead,near,0.38
+12:45:47,person,0.90,ahead,near,0.38
+12:45:48,person,0.89,ahead,near,0.38
+12:45:49,person,0.89,ahead,near,0.39
+12:45:50,person,0.88,ahead,near,0.39
+12:45:51,person,0.89,ahead,near,0.38
+12:45:52,person,0.90,ahead,near,0.38
+12:45:53,person,0.90,ahead,near,0.37
+12:45:54,person,0.89,ahead,near,0.37
+12:45:55,person,0.90,ahead,near,0.37
+12:45:56,person,0.90,ahead,near,0.37
+12:45:57,person,0.90,ahead,near,0.38
+12:45:58,person,0.90,ahead,near,0.38
+12:45:59,person,0.90,ahead,near,0.38
+12:45:59,cup,0.54,on your left,far,0.08
+12:46:01,person,0.90,ahead,near,0.38
+12:46:01,cup,0.62,on your left,far,0.09
+12:46:02,person,0.90,on your left,near,0.41
+12:46:03,person,0.89,on your left,near,0.41
+12:46:03,cup,0.54,on your left,far,0.09
+12:46:04,person,0.89,on your left,near,0.41
+12:46:04,cup,0.64,on your left,far,0.08
+12:46:05,person,0.90,ahead,near,0.39
+12:46:05,cup,0.48,on your left,far,0.08
+12:46:06,person,0.88,ahead,near,0.39
+12:46:07,person,0.90,ahead,near,0.39
+12:46:07,cup,0.81,on your left,far,0.08
+12:46:08,person,0.88,ahead,near,0.39
+12:46:09,person,0.89,ahead,near,0.39
+12:46:10,person,0.89,ahead,near,0.39
+12:46:11,person,0.89,ahead,near,0.39
+12:46:12,person,0.89,ahead,near,0.39
+12:46:13,person,0.89,ahead,near,0.39
+12:46:14,person,0.89,ahead,near,0.39
+12:46:16,person,0.88,ahead,near,0.40
+12:46:17,person,0.88,ahead,near,0.40
+12:46:18,person,0.89,ahead,near,0.39
+12:46:18,cup,0.42,ahead,far,0.08
+12:46:19,person,0.88,ahead,near,0.39
+12:46:20,person,0.88,ahead,near,0.38
+12:46:21,person,0.89,ahead,near,0.38
+12:46:22,person,0.89,ahead,near,0.39
+12:46:23,person,0.88,ahead,near,0.39
+12:46:24,person,0.89,ahead,near,0.39
+12:46:25,person,0.88,ahead,near,0.40
+12:46:26,person,0.89,ahead,near,0.39
+12:46:27,person,0.89,ahead,near,0.39
+12:46:28,person,0.89,ahead,near,0.39
+12:46:30,person,0.89,ahead,near,0.39
+12:46:31,person,0.90,ahead,near,0.39
+12:46:32,person,0.90,ahead,near,0.38
+12:46:33,person,0.89,ahead,near,0.38
+12:46:34,person,0.90,ahead,near,0.39
+12:46:35,person,0.90,ahead,near,0.39
+12:46:36,person,0.89,ahead,near,0.39
+12:46:37,person,0.89,ahead,near,0.39
+12:46:37,cup,0.54,on your left,far,0.08
+12:46:38,person,0.89,ahead,near,0.39
+12:46:39,person,0.89,ahead,near,0.39
+12:46:39,cup,0.42,on your left,far,0.09
+12:46:40,person,0.89,ahead,near,0.39
+12:46:40,cup,0.76,on your left,far,0.08
+12:46:41,person,0.89,ahead,near,0.39
+12:46:41,cup,0.79,on your left,far,0.08
+12:46:42,person,0.88,ahead,near,0.39
+12:46:42,cup,0.68,on your left,far,0.08
+12:46:43,person,0.90,ahead,near,0.39
+12:46:43,cup,0.59,on your left,far,0.08
+12:46:45,person,0.91,ahead,near,0.39
+12:46:45,cup,0.73,on your left,far,0.08
+12:46:46,person,0.89,ahead,near,0.39
+12:46:46,cup,0.67,on your left,far,0.08
+12:46:47,person,0.90,ahead,near,0.38
+12:46:48,person,0.89,ahead,near,0.39
+12:46:49,person,0.90,ahead,near,0.39
+12:46:50,person,0.91,ahead,near,0.39
+12:46:50,cup,0.57,on your left,far,0.08
+12:46:51,person,0.91,ahead,near,0.39
+12:46:51,cup,0.74,on your left,far,0.08
+12:46:52,person,0.90,ahead,near,0.39
+12:46:53,person,0.90,ahead,near,0.39
+12:46:54,person,0.87,ahead,near,0.40
+12:46:55,person,0.91,ahead,near,0.40
+12:46:56,person,0.72,on your left,near,0.31
+12:46:57,person,0.82,on your left,far,0.23
+12:46:58,person,0.72,ahead,far,0.14
+12:47:05,person,0.76,ahead,far,0.10
+12:47:06,person,0.72,ahead,far,0.12
+12:47:07,person,0.83,ahead,far,0.11
+12:47:08,person,0.76,ahead,far,0.09
+12:47:09,person,0.45,ahead,far,0.12
+12:47:10,person,0.46,ahead,far,0.16
+12:47:10,person,0.59,ahead,far,0.12
+12:48:57,person,0.83,on your left,far,0.15
+12:48:58,person,0.73,on your left,far,0.14
+12:48:59,person,0.87,on your left,far,0.18
+12:49:00,person,0.92,on your left,near,0.30
+12:49:01,person,0.91,ahead,very close,0.52
+12:49:03,person,0.92,ahead,very close,0.51
+12:49:04,person,0.91,ahead,very close,0.51
+12:49:05,person,0.94,on your left,near,0.45
+12:49:06,person,0.94,on your left,near,0.43
+12:49:07,person,0.89,on your left,near,0.46
+12:49:08,person,0.92,ahead,near,0.45
+12:49:09,person,0.94,ahead,near,0.47
+12:49:09,cell phone,0.53,on your left,far,0.11
+12:49:10,person,0.93,ahead,near,0.47
+12:49:11,person,0.90,on your left,near,0.46
+12:49:11,cell phone,0.74,ahead,far,0.12
+12:49:12,person,0.90,on your left,near,0.46
+12:49:12,cell phone,0.71,ahead,far,0.13
+12:49:13,person,0.90,on your left,near,0.48
+12:49:13,cell phone,0.61,on your left,far,0.13
+12:49:15,person,0.90,on your left,near,0.47
+12:49:15,cell phone,0.76,ahead,far,0.12
+12:49:16,person,0.93,on your left,near,0.47
+12:49:16,cell phone,0.45,on your left,far,0.12
+12:49:17,person,0.93,on your left,near,0.47
+12:49:17,cell phone,0.41,ahead,far,0.14
+12:49:18,person,0.93,on your left,near,0.46
+12:49:18,cell phone,0.56,ahead,far,0.13
+12:49:19,person,0.93,on your left,near,0.46
+12:49:19,cell phone,0.47,ahead,far,0.12
+12:49:20,person,0.93,on your left,near,0.46
+12:49:20,cell phone,0.54,ahead,far,0.12
+12:49:21,person,0.93,on your left,near,0.46
+12:49:21,cell phone,0.42,ahead,far,0.11
+12:49:22,person,0.93,on your left,near,0.46
+12:49:23,person,0.94,on your left,near,0.47
+12:49:23,cell phone,0.61,ahead,far,0.14
+12:49:24,person,0.93,on your left,near,0.47
+12:49:24,cell phone,0.59,ahead,far,0.11
+12:49:26,person,0.91,on your left,near,0.47
+12:49:27,person,0.93,on your left,near,0.46
+12:49:27,cell phone,0.48,ahead,far,0.11
+12:49:28,person,0.92,on your left,near,0.46
+12:49:29,person,0.90,on your left,near,0.44
+12:49:30,person,0.91,on your left,near,0.44
+12:49:30,cell phone,0.44,ahead,far,0.12
+12:49:31,person,0.89,on your left,near,0.45
+12:49:31,cell phone,0.48,ahead,far,0.20
+12:49:32,person,0.89,on your left,near,0.45
+12:49:33,person,0.90,on your left,near,0.44
+12:49:34,person,0.90,on your left,near,0.44
+12:49:34,cell phone,0.41,ahead,far,0.11
+12:49:35,person,0.90,on your left,near,0.44
+12:49:37,person,0.90,on your left,near,0.44
+12:49:38,person,0.90,on your left,near,0.45
+12:49:39,person,0.90,on your left,near,0.45
+12:49:40,person,0.89,on your left,near,0.45
+12:49:41,person,0.90,on your left,near,0.46
+12:49:42,person,0.89,on your left,near,0.45
+12:49:43,person,0.91,on your left,near,0.46
+12:49:44,person,0.90,on your left,near,0.46
+12:49:45,person,0.89,on your left,near,0.44
+12:49:46,person,0.90,on your left,near,0.44
+12:49:47,person,0.89,on your left,near,0.44
+12:49:47,cell phone,0.42,ahead,far,0.18
+12:49:48,person,0.89,on your left,near,0.44
+12:49:49,person,0.89,on your left,near,0.44
+12:49:50,person,0.88,on your left,near,0.45
+12:49:52,person,0.89,on your left,near,0.44
+12:49:52,cell phone,0.46,ahead,far,0.18
+12:49:53,person,0.90,on your left,near,0.43
+12:49:54,person,0.89,on your left,near,0.43
+12:49:54,cell phone,0.51,ahead,far,0.18
+12:49:55,person,0.87,on your left,near,0.44
+12:49:56,person,0.89,on your left,near,0.44
+12:49:57,person,0.89,on your left,near,0.44
+12:49:58,person,0.89,on your left,near,0.44
+12:49:59,person,0.90,on your left,near,0.45
+12:50:00,person,0.91,on your left,near,0.46
+12:50:01,person,0.92,on your left,near,0.45
+12:50:02,person,0.87,on your left,near,0.43
+12:50:03,person,0.88,on your left,near,0.44
+12:50:04,person,0.89,on your left,near,0.44
+12:50:06,person,0.89,on your left,near,0.45
+12:50:07,person,0.89,on your left,near,0.45
+12:50:08,person,0.88,on your left,near,0.44
+12:50:09,person,0.88,on your left,near,0.44
+12:50:10,person,0.84,on your left,near,0.45
+12:50:11,person,0.86,on your left,near,0.45
+12:50:12,person,0.87,on your left,near,0.45
+12:50:13,person,0.88,on your left,near,0.45
+12:50:14,person,0.88,on your left,near,0.45
+12:50:15,person,0.88,on your left,near,0.45
+12:50:16,person,0.88,on your left,near,0.45
+12:50:17,person,0.89,on your left,near,0.45
+12:50:18,person,0.87,on your left,near,0.44
+12:50:19,person,0.87,on your left,near,0.45
+12:50:20,person,0.89,on your left,near,0.46
+12:50:21,person,0.89,on your left,near,0.46
+12:50:23,person,0.87,on your left,near,0.45
+12:50:24,person,0.87,on your left,near,0.45
+12:50:25,person,0.89,on your left,near,0.45
+12:50:27,person,0.89,on your left,near,0.45
+12:50:28,person,0.88,on your left,near,0.45
+12:50:29,person,0.87,on your left,near,0.45
+12:50:31,person,0.88,on your left,near,0.45
+12:50:32,person,0.89,on your left,near,0.45
+12:50:33,person,0.90,on your left,near,0.46
+12:50:34,person,0.88,on your left,near,0.44
+12:50:35,person,0.89,on your left,near,0.44
+12:50:36,person,0.91,on your left,near,0.44
+12:50:36,cell phone,0.58,ahead,far,0.11
+12:50:36,cup,0.77,ahead,far,0.11
+12:50:37,person,0.91,on your left,near,0.44
+12:50:37,cup,0.41,ahead,far,0.12
+12:50:38,person,0.91,on your left,near,0.44
+12:50:38,cell phone,0.48,on your left,far,0.11
+12:50:38,cup,0.75,on your left,far,0.10
+12:50:39,person,0.91,on your left,near,0.45
+12:50:39,cup,0.61,on your left,far,0.10
+12:50:40,person,0.91,on your left,near,0.44
+12:50:40,cell phone,0.62,on your left,far,0.11
+12:50:40,cup,0.60,on your left,far,0.11
+12:50:41,person,0.92,on your left,near,0.45
+12:50:41,cell phone,0.66,on your left,far,0.11
+12:50:42,person,0.91,on your left,near,0.45
+12:50:42,cell phone,0.85,ahead,far,0.11
+12:50:43,person,0.91,on your left,near,0.45
+12:50:43,cell phone,0.79,ahead,far,0.11
+12:50:43,cup,0.47,ahead,far,0.11
+12:50:45,person,0.92,on your left,near,0.45
+12:50:45,cell phone,0.66,ahead,far,0.11
+12:50:45,cup,0.41,ahead,far,0.11
+12:50:46,person,0.91,on your left,near,0.44
+12:50:46,cell phone,0.59,ahead,far,0.11
+12:50:46,cup,0.42,ahead,far,0.11
+12:50:47,person,0.91,on your left,near,0.45
+12:50:47,cell phone,0.49,ahead,far,0.11
+12:50:47,cup,0.65,ahead,far,0.11
+12:50:48,person,0.91,on your left,near,0.45
+12:50:48,cup,0.60,ahead,far,0.11
+12:50:48,cell phone,0.69,ahead,far,0.11
+12:50:49,person,0.91,on your left,near,0.44
+12:50:49,cell phone,0.50,ahead,far,0.11
+12:50:49,cup,0.66,ahead,far,0.11
+12:50:50,person,0.91,on your left,near,0.44
+12:50:50,cell phone,0.50,ahead,far,0.11
+12:50:50,cup,0.59,ahead,far,0.10
+12:50:51,person,0.91,on your left,near,0.45
+12:50:51,cup,0.47,ahead,far,0.11
+12:50:51,cell phone,0.81,ahead,far,0.11
+12:50:52,person,0.90,on your left,near,0.44
+12:50:52,cell phone,0.57,ahead,far,0.10
+12:50:52,cup,0.59,ahead,far,0.10
+12:50:53,person,0.91,on your left,near,0.44
+12:50:53,cup,0.53,ahead,far,0.11
+12:50:53,cell phone,0.54,ahead,far,0.10
+12:50:54,person,0.92,on your left,near,0.45
+12:50:54,cup,0.48,ahead,far,0.10
+12:50:54,cell phone,0.54,ahead,far,0.10
+12:50:55,person,0.92,on your left,near,0.45
+12:50:55,cell phone,0.60,ahead,far,0.10
+12:50:55,cup,0.46,ahead,far,0.10
+12:50:56,person,0.92,on your left,near,0.45
+12:50:57,person,0.89,on your left,near,0.44
+12:50:57,cup,0.45,on your left,far,0.11
+12:50:58,person,0.86,ahead,near,0.43
+12:50:58,cell phone,0.52,ahead,far,0.10
+12:51:00,person,0.86,ahead,near,0.43
+12:51:01,person,0.87,on your left,near,0.44
+12:51:02,person,0.87,on your left,near,0.44
+12:51:02,cell phone,0.50,ahead,far,0.11
+12:51:03,person,0.86,on your left,near,0.45
+12:51:04,person,0.87,on your left,near,0.44
+12:51:05,person,0.88,on your left,near,0.44
+12:51:05,cell phone,0.43,ahead,far,0.10
+12:51:05,cup,0.43,ahead,far,0.10
+12:51:06,person,0.88,on your left,near,0.44
+12:51:06,cup,0.42,ahead,far,0.10
+12:51:06,cell phone,0.57,ahead,far,0.10
+12:51:07,person,0.88,on your left,near,0.44
+12:51:07,cup,0.49,ahead,far,0.10
+12:51:08,person,0.87,on your left,near,0.44
+12:51:09,person,0.88,on your left,near,0.45
+12:51:09,cup,0.41,ahead,far,0.10
+12:51:09,cell phone,0.43,ahead,far,0.10
+12:51:10,person,0.86,on your left,near,0.45
+12:51:10,cup,0.44,ahead,far,0.10
+12:51:12,person,0.87,on your left,near,0.46
+12:51:12,cup,0.40,on your left,far,0.10
+12:51:13,person,0.91,on your left,near,0.45
+12:51:14,person,0.89,on your left,near,0.44
+12:51:14,cell phone,0.55,ahead,far,0.10
+12:51:15,person,0.87,on your left,near,0.44
+12:51:15,cup,0.41,ahead,far,0.10
+12:51:16,person,0.92,on your left,near,0.45
+12:51:17,person,0.91,on your left,near,0.46
+12:51:17,cell phone,0.53,on your left,far,0.10
+12:51:18,person,0.92,on your left,near,0.47
+12:51:18,cell phone,0.67,ahead,far,0.12
+12:51:19,person,0.93,ahead,near,0.47
+12:51:19,cell phone,0.69,ahead,far,0.11
+12:51:20,person,0.91,on your left,near,0.46
+12:51:20,cell phone,0.69,on your left,far,0.12
+12:51:21,person,0.91,on your left,near,0.46
+12:51:21,cell phone,0.81,ahead,far,0.12
+12:51:22,person,0.91,on your left,near,0.45
+12:51:22,cell phone,0.76,ahead,far,0.12
+12:51:24,person,0.91,on your left,near,0.45
+12:51:24,cell phone,0.77,ahead,far,0.12
+12:51:25,person,0.89,ahead,near,0.44
+12:51:25,cup,0.58,ahead,far,0.11
+12:51:26,person,0.90,ahead,near,0.44
+12:51:26,cell phone,0.48,ahead,far,0.12
+12:51:26,cup,0.43,ahead,far,0.11
+12:51:27,person,0.89,ahead,near,0.44
+12:51:27,cell phone,0.43,ahead,far,0.12
+12:51:27,cup,0.43,ahead,far,0.11
+12:51:28,person,0.90,ahead,near,0.44
+12:51:28,cup,0.50,ahead,far,0.11
+12:51:29,person,0.90,on your left,near,0.44
+12:51:29,cup,0.42,ahead,far,0.12
+12:51:30,person,0.91,on your left,near,0.44
+12:51:30,cell phone,0.49,ahead,far,0.12
+12:51:30,cup,0.43,ahead,far,0.11
+12:51:31,person,0.91,on your left,near,0.45
+12:51:31,cell phone,0.63,ahead,far,0.12
+12:51:32,person,0.91,on your left,near,0.45
+12:51:32,cell phone,0.63,ahead,far,0.12
+12:51:33,person,0.91,on your left,near,0.45
+12:51:33,cell phone,0.64,ahead,far,0.12
+12:51:34,person,0.91,on your left,near,0.45
+12:51:34,cell phone,0.69,ahead,far,0.12
+12:51:35,person,0.88,on your left,near,0.46
+12:51:35,cell phone,0.58,ahead,far,0.12
+12:51:35,cup,0.40,ahead,far,0.12
+12:51:37,person,0.91,on your left,near,0.45
+12:51:37,cell phone,0.51,ahead,far,0.12
+12:51:38,person,0.87,on your left,near,0.44
+12:51:38,cell phone,0.59,ahead,far,0.12
+12:51:39,person,0.86,ahead,near,0.43
+12:51:39,cell phone,0.61,ahead,far,0.12
+12:51:40,person,0.86,ahead,near,0.43
+12:51:40,cell phone,0.59,ahead,far,0.12
+12:51:40,cup,0.46,ahead,far,0.11
+12:51:41,person,0.87,ahead,near,0.42
+12:51:41,cell phone,0.57,ahead,far,0.12
+12:51:41,cup,0.51,ahead,far,0.11
+12:51:42,person,0.85,ahead,near,0.43
+12:51:42,cell phone,0.63,ahead,far,0.12
+12:51:42,cup,0.43,ahead,far,0.12
+12:51:43,person,0.84,ahead,near,0.44
+12:51:43,cell phone,0.64,ahead,far,0.12
+12:51:43,cup,0.40,ahead,far,0.12
+12:51:44,person,0.85,ahead,near,0.44
+12:51:44,cell phone,0.63,ahead,far,0.12
+12:51:44,cup,0.41,ahead,far,0.12
+12:51:45,person,0.88,on your left,near,0.44
+12:51:45,cell phone,0.60,ahead,far,0.12
+12:51:46,person,0.87,on your left,near,0.44
+12:51:47,person,0.86,ahead,near,0.43
+12:51:49,person,0.88,ahead,near,0.43
+12:51:49,cell phone,0.42,ahead,far,0.09
+12:51:50,person,0.88,ahead,near,0.43
+12:51:51,person,0.87,ahead,near,0.44
+12:51:52,person,0.88,on your left,near,0.44
+12:51:52,cell phone,0.41,ahead,far,0.10
+12:51:53,person,0.89,on your left,near,0.45
+12:51:54,person,0.89,on your left,near,0.45
+12:51:55,person,0.88,on your left,near,0.45
+12:51:56,person,0.88,on your left,near,0.45
+12:51:57,person,0.88,on your left,near,0.45
+12:51:58,person,0.89,on your left,near,0.45
+12:51:59,person,0.88,on your left,near,0.45
+12:52:01,person,0.87,on your left,near,0.45
+12:52:02,person,0.90,on your left,near,0.44
+12:52:02,cell phone,0.41,ahead,far,0.10
+12:52:03,person,0.91,on your left,near,0.44
+12:52:04,person,0.91,on your left,near,0.44
+12:52:05,person,0.91,on your left,near,0.44
+12:52:06,person,0.91,on your left,near,0.44
+12:52:07,person,0.91,on your left,near,0.44
+12:52:08,person,0.91,on your left,near,0.44
+12:52:09,person,0.91,on your left,near,0.45
+12:52:10,person,0.88,on your left,near,0.45
+12:52:12,person,0.90,on your left,near,0.44
+12:52:13,person,0.92,on your left,near,0.44
+12:52:14,person,0.89,on your left,near,0.44
+12:52:15,person,0.88,on your left,near,0.45
+12:52:16,person,0.90,on your left,near,0.44
+12:52:17,person,0.91,on your left,near,0.44
+12:52:18,person,0.91,on your left,near,0.44
+12:52:19,person,0.90,on your left,near,0.44
+12:52:20,person,0.89,on your left,near,0.45
+12:52:21,person,0.89,on your left,near,0.45
+12:52:22,person,0.88,on your left,near,0.45
+12:52:23,person,0.89,on your left,near,0.45
+12:52:24,person,0.87,on your left,near,0.45
+12:52:26,person,0.88,on your left,near,0.45
+12:52:27,person,0.88,on your left,near,0.44
+12:52:28,person,0.89,on your left,near,0.44
+12:52:29,person,0.88,on your left,near,0.45
+12:52:30,person,0.89,on your left,near,0.45
+12:52:31,person,0.89,on your left,near,0.45
+12:52:32,person,0.90,on your left,near,0.44
+12:52:33,person,0.89,on your left,near,0.44
+12:52:34,person,0.89,on your left,near,0.44
+12:52:35,person,0.84,on your left,near,0.45
+12:52:36,person,0.89,on your left,near,0.45
+12:52:37,person,0.88,on your left,near,0.45
+12:52:38,person,0.89,on your left,near,0.45
+12:52:39,person,0.89,on your left,near,0.45
+12:52:41,person,0.88,on your left,near,0.44
+12:52:42,person,0.88,on your left,near,0.45
+12:52:43,person,0.87,on your left,near,0.45
+12:52:44,person,0.88,on your left,near,0.45
+12:52:45,person,0.88,on your left,near,0.44
+12:52:46,person,0.87,on your left,near,0.45
+12:52:47,person,0.76,ahead,near,0.41
+12:52:48,person,0.89,ahead,very close,0.57
+12:52:49,person,0.81,on your left,near,0.25
+12:52:50,person,0.81,on your left,far,0.18
+12:52:54,person,0.83,ahead,far,0.13
+12:52:55,person,0.82,ahead,far,0.10
+12:52:56,person,0.63,on your left,far,0.10
+12:52:57,person,0.81,on your left,far,0.09
+12:52:58,person,0.87,on your left,far,0.15
+12:52:59,person,0.90,ahead,far,0.23
+12:53:00,person,0.92,on your left,near,0.37
+12:53:01,person,0.91,on your left,near,0.38
+12:53:02,person,0.91,ahead,near,0.39
+12:53:03,person,0.92,ahead,near,0.38
+12:53:04,person,0.92,ahead,near,0.38
+12:53:05,person,0.89,on your left,near,0.32
+12:53:06,person,0.87,ahead,far,0.20
+12:53:12,person,0.65,ahead,far,0.13
+12:53:15,person,0.75,ahead,far,0.09
+12:53:16,person,0.52,on your left,far,0.13
+12:53:17,person,0.67,on your left,far,0.12
+12:53:18,person,0.82,on your left,far,0.12
+12:53:20,person,0.58,on your left,far,0.08
+12:53:21,person,0.83,on your left,far,0.11
+12:53:22,person,0.85,on your left,far,0.20
+12:54:00,person,0.89,on your left,far,0.18
+12:54:01,person,0.45,on your left,far,0.09
+12:54:03,person,0.72,on your left,far,0.15
+12:54:27,person,0.90,ahead,very close,0.53
+12:54:28,person,0.93,ahead,very close,0.55
+12:54:29,person,0.82,on your left,near,0.48
+12:54:30,person,0.86,on your left,near,0.48
+12:54:31,person,0.92,on your left,near,0.49
+12:54:32,person,0.91,on your left,near,0.49
+12:54:33,person,0.90,on your left,near,0.49
+12:54:34,person,0.88,on your left,near,0.49
+12:54:34,remote,0.64,ahead,far,0.10
+12:54:35,person,0.88,on your left,near,0.48
+12:54:35,remote,0.55,ahead,far,0.10
+12:54:36,person,0.90,on your left,near,0.49
+12:54:36,remote,0.48,ahead,far,0.10
+12:54:37,person,0.89,on your left,near,0.48
+12:54:37,remote,0.45,ahead,far,0.11
+12:54:38,person,0.86,on your left,near,0.48
+12:54:40,person,0.74,ahead,near,0.48
+12:54:40,remote,0.42,ahead,far,0.17
+12:54:41,person,0.70,ahead,near,0.47
+12:54:42,person,0.76,ahead,near,0.46
+12:54:43,person,0.79,ahead,near,0.46
+12:54:44,person,0.67,ahead,near,0.45
+12:54:45,person,0.73,ahead,near,0.47
+12:54:46,person,0.75,ahead,near,0.47
+12:54:47,person,0.79,ahead,near,0.47
+12:54:48,person,0.80,ahead,near,0.47
+12:54:49,person,0.82,ahead,near,0.47
+12:54:50,person,0.83,ahead,near,0.47
+12:54:51,person,0.76,ahead,near,0.47
+12:54:53,person,0.83,ahead,near,0.47
+12:54:54,person,0.75,on your left,near,0.46
+12:54:55,person,0.63,on your left,near,0.44
+12:54:56,person,0.62,on your left,near,0.44
+12:54:57,person,0.62,on your left,near,0.44
+12:54:58,person,0.73,on your left,near,0.44
+12:54:59,person,0.61,on your left,near,0.44
+12:55:00,person,0.67,on your left,near,0.44
+12:55:01,person,0.75,on your left,near,0.45
+12:55:02,person,0.67,on your left,near,0.46
+12:55:03,person,0.54,on your left,near,0.44
+12:55:04,person,0.69,on your left,near,0.46
+12:55:06,person,0.72,on your left,near,0.45
+12:55:07,person,0.71,ahead,near,0.46
+12:55:08,person,0.81,ahead,near,0.47
+12:55:09,person,0.72,on your left,near,0.46
+12:55:10,person,0.77,ahead,near,0.47
+12:55:11,person,0.84,ahead,near,0.49
+12:55:12,person,0.66,on your left,near,0.47
+12:55:12,person,0.46,ahead,near,0.27
+12:55:13,person,0.54,on your left,near,0.45
+12:55:13,person,0.54,ahead,near,0.27
+12:55:14,person,0.52,on your left,near,0.48
+12:55:14,person,0.46,ahead,near,0.28
+12:55:15,person,0.81,on your left,near,0.47
+12:55:16,person,0.90,on your left,near,0.49
+12:55:16,remote,0.64,ahead,far,0.16
+12:55:17,person,0.91,on your left,near,0.50
+12:55:18,person,0.91,on your left,near,0.49
+12:55:18,remote,0.41,ahead,far,0.18
+12:55:19,person,0.92,on your left,near,0.49
+12:55:19,remote,0.56,ahead,far,0.18
+12:55:20,person,0.90,on your left,near,0.49
+12:55:20,remote,0.58,ahead,far,0.18
+12:55:21,person,0.90,on your left,near,0.48
+12:55:21,remote,0.63,ahead,far,0.18
+12:55:22,person,0.87,on your left,near,0.49
+12:55:23,person,0.89,on your left,near,0.48
+12:55:23,remote,0.46,ahead,far,0.17
+12:55:24,person,0.89,on your left,near,0.48
+12:55:24,remote,0.44,ahead,far,0.17
+12:55:26,person,0.88,on your left,near,0.48
+12:55:26,remote,0.55,ahead,far,0.17
+12:55:27,person,0.89,on your left,near,0.49
+12:55:28,person,0.89,on your left,near,0.49
+12:55:28,remote,0.61,ahead,far,0.16
+12:55:29,person,0.90,on your left,near,0.49
+12:55:29,remote,0.72,ahead,far,0.17
+12:55:30,person,0.90,on your left,near,0.49
+12:55:30,remote,0.66,ahead,far,0.16
+12:55:31,person,0.90,on your left,near,0.49
+12:55:31,remote,0.69,ahead,far,0.16
+12:55:32,person,0.89,on your left,near,0.49
+12:55:32,remote,0.62,ahead,far,0.16
+12:55:33,person,0.88,on your left,near,0.48
+12:55:33,remote,0.44,ahead,far,0.16
+12:55:34,person,0.85,on your left,near,0.48
+12:55:34,remote,0.57,ahead,far,0.17
+12:55:35,person,0.84,on your left,near,0.47
+12:55:35,remote,0.56,ahead,far,0.17
+12:55:36,person,0.87,on your left,near,0.48
+12:55:36,remote,0.59,ahead,far,0.17
+12:55:37,person,0.87,on your left,near,0.48
+12:55:37,remote,0.56,ahead,far,0.17
+12:55:39,person,0.86,on your left,near,0.48
+12:55:39,remote,0.65,ahead,far,0.16
+12:55:40,person,0.85,on your left,near,0.47
+12:55:40,remote,0.54,ahead,far,0.17
+12:55:41,person,0.86,on your left,near,0.48
+12:55:41,remote,0.65,ahead,far,0.17
+12:55:42,person,0.88,on your left,near,0.48
+12:55:42,remote,0.57,ahead,far,0.17
+12:55:43,person,0.85,ahead,near,0.48
+12:55:43,remote,0.69,ahead,far,0.17
+12:55:44,person,0.86,ahead,near,0.48
+12:55:44,remote,0.78,ahead,far,0.17
+12:55:45,person,0.88,on your left,near,0.49
+12:55:45,remote,0.58,ahead,far,0.17
+12:55:46,person,0.88,on your left,near,0.49
+12:55:46,remote,0.44,ahead,far,0.17
+12:55:47,person,0.86,ahead,near,0.49
+12:55:47,remote,0.67,ahead,far,0.17
+12:55:48,person,0.87,on your left,near,0.49
+12:55:48,remote,0.69,ahead,far,0.17
+12:55:49,person,0.88,ahead,near,0.49
+12:55:49,remote,0.72,ahead,far,0.17
+12:55:51,person,0.88,ahead,near,0.49
+12:55:51,remote,0.67,ahead,far,0.17
+12:55:52,person,0.88,ahead,near,0.48
+12:55:52,remote,0.63,ahead,far,0.16
+12:55:53,person,0.84,ahead,near,0.48
+12:55:53,remote,0.60,ahead,far,0.17
+12:55:54,person,0.82,ahead,near,0.48
+12:55:54,remote,0.57,ahead,far,0.17
+12:55:55,person,0.81,ahead,near,0.48
+12:55:55,remote,0.58,ahead,far,0.17
+12:55:56,person,0.85,ahead,near,0.49
+12:55:56,remote,0.62,ahead,far,0.17
+12:55:57,person,0.88,ahead,near,0.49
+12:55:57,remote,0.51,ahead,far,0.16
+12:55:58,person,0.88,ahead,near,0.49
+12:55:58,remote,0.54,ahead,far,0.17
+12:55:59,person,0.88,ahead,near,0.49
+12:55:59,remote,0.69,ahead,far,0.16
+12:56:00,person,0.90,ahead,near,0.49
+12:56:00,remote,0.66,ahead,far,0.16
+12:56:01,person,0.90,ahead,near,0.49
+12:56:01,remote,0.60,ahead,far,0.16
+12:56:02,person,0.89,ahead,near,0.49
+12:56:02,remote,0.56,ahead,far,0.17
+12:56:03,person,0.89,ahead,near,0.48
+12:56:03,remote,0.66,ahead,far,0.16
+12:56:04,person,0.90,ahead,near,0.48
+12:56:04,remote,0.60,ahead,far,0.16
+12:56:06,person,0.90,ahead,near,0.49
+12:56:06,remote,0.63,ahead,far,0.16
+12:56:07,person,0.90,on your left,near,0.49
+12:56:07,remote,0.71,ahead,far,0.16
+12:56:08,person,0.90,ahead,near,0.50
+12:56:08,remote,0.63,ahead,far,0.16
+12:56:09,person,0.89,on your left,near,0.49
+12:56:09,remote,0.72,ahead,far,0.16
+12:56:10,person,0.90,on your left,near,0.49
+12:56:10,remote,0.64,ahead,far,0.16
+12:56:11,person,0.89,on your left,near,0.49
+12:56:11,remote,0.77,ahead,far,0.16
+12:56:12,person,0.90,on your left,near,0.50
+12:56:12,remote,0.67,ahead,far,0.16
+12:56:13,person,0.89,on your left,near,0.49
+12:56:13,remote,0.68,ahead,far,0.16
+12:56:14,person,0.89,on your left,near,0.49
+12:56:14,remote,0.81,ahead,far,0.16
+12:56:15,person,0.90,on your left,near,0.50
+12:56:15,remote,0.64,ahead,far,0.16
+12:56:17,person,0.90,on your left,near,0.49
+12:56:17,remote,0.72,ahead,far,0.16
+12:56:18,person,0.89,on your left,near,0.49
+12:56:18,remote,0.67,ahead,far,0.16
+12:56:19,person,0.89,on your left,near,0.49
+12:56:19,remote,0.68,ahead,far,0.16
+12:56:20,person,0.89,on your left,near,0.50
+12:56:20,remote,0.78,ahead,far,0.16
+12:56:21,person,0.90,on your left,near,0.49
+12:56:21,remote,0.72,ahead,far,0.16
+12:56:22,person,0.88,ahead,near,0.49
+12:56:22,remote,0.68,ahead,far,0.16
+12:56:23,person,0.90,on your left,near,0.49
+12:56:23,remote,0.67,ahead,far,0.16
+12:56:24,person,0.90,on your left,near,0.49
+12:56:24,remote,0.85,ahead,far,0.16
+12:56:25,person,0.89,ahead,near,0.48
+12:56:25,remote,0.68,ahead,far,0.16
+12:56:26,person,0.90,ahead,near,0.49
+12:56:26,remote,0.68,ahead,far,0.17
+12:56:28,person,0.90,on your left,near,0.49
+12:56:28,remote,0.75,ahead,far,0.16
+12:56:29,person,0.90,ahead,near,0.49
+12:56:29,remote,0.71,ahead,far,0.16
+12:56:30,person,0.90,ahead,near,0.49
+12:56:30,remote,0.73,ahead,far,0.16
+12:56:31,person,0.91,ahead,near,0.49
+12:56:31,remote,0.77,ahead,far,0.16
+12:56:32,person,0.90,on your left,near,0.49
+12:56:32,remote,0.62,ahead,far,0.17
+12:56:33,person,0.89,ahead,near,0.49
+12:56:33,remote,0.70,ahead,far,0.17
+12:56:34,person,0.91,on your left,near,0.50
+12:56:35,person,0.93,ahead,very close,0.51
+12:56:35,cell phone,0.55,ahead,far,0.09
+12:56:36,person,0.92,ahead,very close,0.51
+12:56:36,cell phone,0.50,ahead,far,0.06
+12:56:37,person,0.69,on your left,near,0.49
+12:56:38,person,0.86,ahead,very close,0.51
+12:56:40,person,0.90,on your left,near,0.48
+12:56:41,person,0.90,on your left,near,0.48
+12:56:42,person,0.87,ahead,very close,0.52
+12:56:43,person,0.82,on your left,near,0.48
+12:56:44,person,0.85,on your left,near,0.48
+12:56:45,person,0.89,on your left,near,0.49
+12:56:46,person,0.90,on your left,near,0.48
+12:56:47,person,0.90,on your left,near,0.49
+12:56:48,person,0.91,on your left,near,0.49
+12:56:49,person,0.91,on your left,near,0.49
+12:56:51,person,0.90,on your left,near,0.49
+12:56:52,person,0.90,on your left,near,0.48
+12:56:53,person,0.90,on your left,near,0.49
+12:56:54,person,0.87,on your left,near,0.49
+12:56:55,person,0.86,on your left,near,0.47
+12:56:56,person,0.84,on your left,near,0.47
+12:56:56,remote,0.43,ahead,far,0.11
+12:56:57,person,0.89,on your left,near,0.48
+12:56:58,person,0.87,on your left,near,0.47
+12:56:59,person,0.90,on your left,near,0.47
+12:57:00,person,0.90,on your left,near,0.47
+12:57:01,person,0.84,on your left,near,0.47
+12:57:02,person,0.86,on your left,near,0.47
+12:57:03,person,0.88,on your left,near,0.47
+12:57:04,person,0.86,on your left,near,0.47
+12:57:05,person,0.87,on your left,near,0.47
+12:57:07,person,0.90,on your left,near,0.47
+12:57:08,person,0.88,on your left,near,0.48
+12:57:09,person,0.91,on your left,near,0.49
+12:57:10,person,0.92,on your left,near,0.44
+12:57:11,person,0.89,ahead,far,0.23
+12:57:12,person,0.47,ahead,far,0.12
+12:57:14,person,0.79,ahead,far,0.08
+12:57:15,person,0.84,ahead,far,0.11
+12:57:16,person,0.87,ahead,far,0.18
+12:57:18,person,0.85,on your left,near,0.29
+12:57:20,person,0.85,ahead,far,0.18
+12:57:21,person,0.75,ahead,far,0.11
+12:57:22,person,0.75,ahead,far,0.12
+12:57:22,kite,0.42,on your left,far,0.09
+12:57:23,person,0.70,ahead,far,0.11
+12:57:23,kite,0.49,on your left,far,0.09
+12:57:24,person,0.80,ahead,far,0.12
+12:57:24,kite,0.43,on your left,far,0.09
+12:57:25,person,0.79,ahead,far,0.12
+12:57:25,kite,0.51,on your left,far,0.09
+12:57:26,person,0.60,ahead,far,0.11
+12:57:26,kite,0.51,on your left,far,0.09
+12:57:27,person,0.78,ahead,far,0.12
+12:57:27,kite,0.43,on your left,far,0.09
+12:57:28,person,0.80,ahead,far,0.12
+12:57:28,kite,0.42,on your left,far,0.09
+12:57:29,person,0.76,ahead,far,0.12
+12:57:29,kite,0.49,on your left,far,0.09
+12:57:30,person,0.75,ahead,far,0.12
+12:57:30,kite,0.47,on your left,far,0.09
+12:57:32,person,0.73,ahead,far,0.11
+12:57:32,kite,0.46,on your left,far,0.09
+12:57:34,person,0.73,ahead,far,0.11
+12:57:34,kite,0.42,on your left,far,0.09
+12:57:37,kite,0.41,on your left,far,0.09
+12:57:39,kite,0.46,on your left,far,0.09
+12:57:40,kite,0.42,on your left,far,0.09
+12:57:41,kite,0.42,on your left,far,0.09
+12:57:44,kite,0.47,on your left,far,0.09
+12:57:45,kite,0.49,on your left,far,0.09
+12:57:47,kite,0.43,on your left,far,0.09
+12:57:49,kite,0.42,on your left,far,0.09
+12:57:50,kite,0.47,on your left,far,0.09
+12:57:51,kite,0.44,on your left,far,0.09
+12:57:53,kite,0.42,on your left,far,0.09
+12:57:54,kite,0.41,on your left,far,0.09
+12:57:56,kite,0.42,on your left,far,0.09
+12:58:03,kite,0.41,on your left,far,0.09
+12:58:15,kite,0.43,on your left,far,0.09
+12:58:17,kite,0.41,on your left,far,0.09
+12:58:18,kite,0.44,on your left,far,0.09
+12:58:20,kite,0.41,on your left,far,0.09
+12:58:24,kite,0.46,on your left,far,0.09
+12:58:26,kite,0.45,on your left,far,0.09
+12:58:29,kite,0.41,on your left,far,0.09
+12:58:37,kite,0.42,on your left,far,0.09
+12:58:44,person,0.51,ahead,far,0.11
+12:58:45,person,0.76,ahead,far,0.13
+12:58:45,kite,0.49,on your left,far,0.09
+12:58:46,person,0.86,ahead,far,0.19
+12:58:46,kite,0.51,on your left,far,0.09
+12:59:56,person,0.82,on your left,near,0.28
+12:59:58,person,0.88,on your left,near,0.36
+12:59:59,person,0.90,on your left,near,0.39
+13:00:00,person,0.86,on your left,near,0.50
+13:00:01,person,0.71,ahead,far,0.22
+13:00:02,person,0.76,ahead,near,0.28
+13:00:03,person,0.83,ahead,near,0.28
+13:00:04,person,0.84,ahead,near,0.30
+13:00:05,person,0.82,ahead,near,0.30
+13:00:06,person,0.78,ahead,near,0.29
+13:00:07,person,0.71,ahead,near,0.29
+13:00:08,person,0.65,ahead,near,0.28
+13:00:09,person,0.68,ahead,near,0.28
+13:00:11,person,0.67,ahead,near,0.28
+13:00:13,person,0.63,ahead,near,0.28
+13:00:14,person,0.67,ahead,near,0.28
+13:00:15,person,0.59,ahead,near,0.28
+13:00:15,person,0.44,ahead,far,0.23
+13:00:16,person,0.58,ahead,near,0.28
+13:00:16,person,0.43,ahead,far,0.23
+13:00:17,person,0.53,ahead,near,0.28
+13:00:17,person,0.54,ahead,far,0.23
+13:00:18,person,0.74,ahead,far,0.23
+13:00:20,person,0.53,ahead,near,0.28
+13:00:20,person,0.56,ahead,far,0.23
+13:00:21,person,0.50,ahead,near,0.28
+13:00:21,person,0.54,ahead,far,0.23
+13:00:22,person,0.65,ahead,near,0.28
+13:00:23,person,0.66,ahead,near,0.28
+13:00:24,person,0.66,ahead,near,0.28
+13:00:25,person,0.63,ahead,near,0.28
+13:00:26,person,0.72,ahead,near,0.28
+13:00:27,person,0.70,ahead,near,0.28
+13:00:28,person,0.70,ahead,near,0.28
+13:00:29,person,0.66,ahead,near,0.28
+13:00:30,person,0.65,ahead,near,0.28
+13:00:31,person,0.66,ahead,near,0.28
+13:00:32,person,0.72,ahead,near,0.28
+13:00:33,person,0.62,ahead,near,0.28
+13:00:35,person,0.65,ahead,far,0.24
+13:00:36,person,0.81,ahead,near,0.30
+13:00:37,person,0.79,ahead,near,0.30
+13:00:38,person,0.77,ahead,near,0.30
+13:00:39,person,0.71,ahead,near,0.30
+13:00:40,person,0.51,ahead,near,0.30
+13:00:40,person,0.53,ahead,near,0.25
+13:00:41,person,0.58,ahead,near,0.30
+13:00:41,person,0.51,ahead,near,0.25
+13:00:42,person,0.45,ahead,near,0.30
+13:00:42,person,0.67,ahead,near,0.25
+13:00:43,person,0.47,ahead,near,0.30
+13:00:43,person,0.66,ahead,near,0.26
+13:00:44,person,0.70,ahead,near,0.26
+13:00:45,person,0.43,ahead,near,0.30
+13:00:45,person,0.66,ahead,near,0.26
+13:00:46,person,0.67,ahead,near,0.26
+13:00:47,person,0.72,ahead,near,0.25
+13:00:49,person,0.50,ahead,near,0.30
+13:00:49,person,0.65,ahead,near,0.25
+13:00:50,person,0.55,ahead,near,0.30
+13:00:50,person,0.63,ahead,near,0.26
+13:00:51,person,0.69,ahead,near,0.25
+13:00:52,person,0.70,ahead,near,0.25
+13:00:53,person,0.80,ahead,near,0.30
+13:00:54,person,0.80,ahead,near,0.29
+13:00:55,person,0.82,ahead,near,0.29
+13:00:56,person,0.81,ahead,near,0.29
+13:00:57,person,0.80,ahead,near,0.29
+13:00:58,person,0.80,ahead,near,0.29
+13:00:59,person,0.81,ahead,near,0.29
+13:01:00,person,0.80,ahead,near,0.29
+13:01:02,person,0.78,ahead,near,0.29
+13:01:03,person,0.79,ahead,near,0.28
+13:01:04,person,0.81,ahead,near,0.29
+13:01:05,person,0.79,ahead,near,0.29
+13:01:06,person,0.80,ahead,near,0.30
+13:01:07,person,0.80,ahead,near,0.29
+13:01:08,person,0.72,ahead,near,0.29
+13:01:09,person,0.70,ahead,near,0.29
+13:01:10,person,0.69,ahead,near,0.28
+13:01:11,person,0.66,ahead,near,0.29
+13:01:12,person,0.69,ahead,near,0.28
+13:01:13,person,0.65,ahead,near,0.28
+13:01:14,person,0.68,ahead,near,0.28
+13:01:16,person,0.66,ahead,near,0.28
+13:01:17,person,0.61,ahead,near,0.28
+13:01:18,person,0.60,ahead,near,0.28
+13:01:19,person,0.61,ahead,near,0.28
+13:01:20,person,0.52,ahead,near,0.28
+13:01:20,person,0.46,ahead,far,0.23
+13:01:21,person,0.58,ahead,near,0.28
+13:01:22,person,0.57,ahead,near,0.28
+13:01:23,person,0.47,ahead,near,0.28
+13:01:23,person,0.48,ahead,far,0.23
+13:01:24,person,0.61,ahead,far,0.23
+13:01:26,person,0.48,ahead,near,0.28
+13:01:26,person,0.61,ahead,far,0.24
+13:01:27,person,0.71,ahead,near,0.28
+13:01:28,person,0.58,ahead,near,0.28
+13:01:28,person,0.54,ahead,far,0.23
+13:01:29,person,0.48,ahead,near,0.28
+13:01:29,person,0.60,ahead,far,0.23
+13:01:30,person,0.51,ahead,near,0.28
+13:01:30,person,0.54,ahead,far,0.23
+13:01:31,person,0.44,ahead,near,0.28
+13:01:31,person,0.61,ahead,far,0.23
+13:01:32,person,0.50,ahead,near,0.27
+13:01:32,person,0.70,ahead,far,0.23
+13:01:33,person,0.49,ahead,near,0.27
+13:01:33,person,0.71,ahead,far,0.23
+13:01:34,person,0.51,ahead,near,0.28
+13:01:34,person,0.60,ahead,far,0.23
+13:01:35,person,0.63,ahead,near,0.28
+13:01:35,person,0.41,ahead,far,0.24
+13:01:36,person,0.60,ahead,near,0.28
+13:01:37,person,0.56,ahead,near,0.28
+13:01:37,person,0.45,ahead,far,0.23
+13:01:39,person,0.62,ahead,near,0.28
+13:01:40,person,0.61,ahead,near,0.28
+13:01:41,person,0.60,ahead,near,0.28
+13:01:42,person,0.62,ahead,near,0.28
+13:01:43,person,0.62,ahead,near,0.28
+13:01:44,person,0.56,ahead,near,0.28
+13:01:45,person,0.56,ahead,near,0.28
+13:01:46,person,0.56,ahead,near,0.28
+13:01:47,person,0.57,ahead,near,0.28
+13:01:48,person,0.57,ahead,near,0.28
+13:01:49,person,0.49,ahead,near,0.28
+13:01:49,person,0.41,ahead,far,0.24
+13:01:51,person,0.50,ahead,near,0.28
+13:01:51,person,0.46,ahead,far,0.23
+13:01:52,person,0.64,ahead,near,0.29
+13:01:53,person,0.73,ahead,near,0.29
+13:01:54,person,0.75,ahead,near,0.29
+13:01:55,person,0.68,ahead,near,0.29
+13:01:56,person,0.66,ahead,near,0.28
+13:01:57,person,0.58,ahead,near,0.28
+13:01:58,person,0.58,ahead,near,0.28
+13:01:59,person,0.60,ahead,near,0.28
+13:02:00,person,0.55,ahead,near,0.28
+13:02:01,person,0.61,ahead,near,0.28
+13:02:02,person,0.66,ahead,near,0.28
+13:02:04,person,0.46,ahead,near,0.27
+13:02:05,person,0.46,ahead,near,0.27
+13:02:06,person,0.44,ahead,near,0.27
+13:02:07,person,0.44,ahead,far,0.22
+13:02:08,person,0.42,ahead,near,0.27
+13:02:09,person,0.43,ahead,near,0.27
+13:02:10,person,0.51,ahead,near,0.28
+13:02:11,person,0.51,ahead,near,0.27
+13:02:12,person,0.53,ahead,near,0.28
+13:02:13,person,0.54,ahead,near,0.28
+13:02:13,person,0.42,ahead,far,0.23
+13:02:14,person,0.51,ahead,near,0.27
+13:02:15,person,0.53,ahead,near,0.27
+13:02:17,person,0.52,ahead,near,0.27
+13:02:18,person,0.50,ahead,near,0.27
+13:02:19,person,0.56,ahead,near,0.27
+13:02:19,person,0.53,ahead,far,0.23
+13:02:20,person,0.58,ahead,near,0.28
+13:02:21,person,0.53,ahead,near,0.27
+13:02:21,person,0.46,ahead,far,0.23
+13:02:22,person,0.53,ahead,near,0.27
+13:02:22,person,0.49,ahead,far,0.23
+13:02:23,person,0.55,ahead,near,0.28
+13:02:23,person,0.42,ahead,far,0.23
+13:02:24,person,0.49,ahead,near,0.27
+13:02:24,person,0.47,ahead,far,0.23
+13:02:25,person,0.55,ahead,far,0.23
+13:02:26,person,0.47,ahead,near,0.27
+13:02:26,person,0.42,ahead,far,0.23
+13:02:27,person,0.49,ahead,far,0.22
+13:02:28,person,0.42,ahead,near,0.27
+13:02:28,person,0.44,ahead,far,0.22
+13:02:29,person,0.48,ahead,far,0.22
+13:02:30,person,0.42,ahead,near,0.27
+13:02:30,person,0.48,ahead,far,0.22
+13:02:32,person,0.54,ahead,far,0.22
+13:02:33,person,0.49,ahead,far,0.21
+13:02:34,person,0.44,ahead,near,0.27
+13:02:34,person,0.47,ahead,far,0.22
+13:02:35,person,0.48,ahead,near,0.27
+13:02:36,person,0.48,ahead,near,0.27
+13:02:36,person,0.43,ahead,far,0.22
+13:02:37,person,0.54,ahead,far,0.22
+13:02:38,person,0.53,ahead,far,0.22
+13:02:39,person,0.42,ahead,near,0.27
+13:02:39,person,0.41,ahead,far,0.22
+13:02:40,person,0.57,ahead,far,0.22
+13:02:41,person,0.57,ahead,far,0.22
+13:02:42,person,0.47,ahead,far,0.22
+13:02:43,person,0.51,ahead,far,0.22
+13:02:45,person,0.44,ahead,near,0.26
+13:02:45,person,0.56,ahead,far,0.22
+13:02:46,person,0.55,ahead,far,0.22
+13:02:47,person,0.43,ahead,near,0.26
+13:02:47,person,0.53,ahead,far,0.22
+13:02:48,person,0.61,ahead,far,0.21
+13:02:49,person,0.57,ahead,far,0.21
+13:02:50,person,0.52,ahead,far,0.21
+13:02:51,person,0.57,ahead,far,0.22
+13:02:52,person,0.42,ahead,near,0.26
+13:02:52,person,0.45,ahead,far,0.23
+13:02:53,person,0.49,ahead,near,0.27
+13:02:53,person,0.43,ahead,far,0.23
+13:02:54,person,0.57,ahead,near,0.27
+13:02:55,person,0.45,ahead,near,0.27
+13:02:55,person,0.45,ahead,far,0.22
+13:02:56,person,0.48,ahead,near,0.27
+13:02:56,person,0.42,ahead,far,0.22
+13:02:57,person,0.42,ahead,near,0.27
+13:02:57,person,0.45,ahead,far,0.23
+13:02:58,person,0.43,ahead,near,0.27
+13:02:59,person,0.40,ahead,near,0.26
+13:02:59,person,0.43,ahead,far,0.22
+13:03:01,person,0.42,ahead,near,0.27
+13:03:02,person,0.60,ahead,far,0.22
+13:03:03,person,0.51,ahead,far,0.22
+13:03:04,person,0.43,ahead,far,0.22
+13:03:05,person,0.43,ahead,near,0.27
+13:03:05,person,0.62,ahead,far,0.23
+13:03:06,person,0.55,ahead,near,0.27
+13:03:06,person,0.43,ahead,far,0.23
+13:03:07,person,0.64,ahead,far,0.23
+13:03:08,person,0.54,ahead,far,0.21
+13:03:09,person,0.76,ahead,far,0.21
+13:03:10,person,0.75,ahead,far,0.21
+13:03:11,person,0.75,ahead,far,0.20
+13:03:12,person,0.72,ahead,far,0.20
+13:03:14,person,0.63,ahead,far,0.20
+13:03:15,person,0.73,ahead,far,0.20
+13:03:16,person,0.74,ahead,far,0.21
+13:03:17,person,0.72,ahead,far,0.20
+13:03:18,person,0.74,ahead,far,0.20
+13:03:19,person,0.73,ahead,far,0.20
+13:03:20,person,0.71,ahead,far,0.20
+13:03:21,person,0.74,ahead,far,0.20
+13:03:22,person,0.73,ahead,far,0.20
+13:03:23,person,0.59,ahead,far,0.21
+13:03:24,person,0.56,ahead,far,0.21
+13:03:25,person,0.56,ahead,far,0.21
+13:03:26,person,0.54,ahead,far,0.21
+13:03:28,person,0.51,ahead,far,0.21
+13:03:29,person,0.58,ahead,far,0.21
+13:03:30,person,0.56,ahead,far,0.22
+13:03:31,person,0.55,ahead,far,0.21
+13:03:32,person,0.43,ahead,near,0.26
+13:03:32,person,0.53,ahead,far,0.22
+13:03:33,person,0.44,ahead,near,0.26
+13:03:33,person,0.54,ahead,far,0.22
+13:03:34,person,0.44,ahead,near,0.26
+13:03:34,person,0.61,ahead,far,0.22
+13:03:35,person,0.42,ahead,near,0.26
+13:03:35,person,0.59,ahead,far,0.22
+13:03:36,person,0.46,ahead,near,0.26
+13:03:36,person,0.54,ahead,far,0.21
+13:03:37,person,0.43,ahead,near,0.26
+13:03:37,person,0.59,ahead,far,0.22
+13:03:38,person,0.45,ahead,near,0.26
+13:03:38,person,0.57,ahead,far,0.22
+13:03:40,person,0.47,ahead,near,0.26
+13:03:40,person,0.53,ahead,far,0.22
+13:03:41,person,0.44,ahead,near,0.26
+13:03:41,person,0.60,ahead,far,0.21
+13:03:42,person,0.41,ahead,near,0.26
+13:03:42,person,0.59,ahead,far,0.21
+13:03:43,person,0.44,ahead,near,0.26
+13:03:43,person,0.52,ahead,far,0.21
+13:03:44,person,0.41,ahead,near,0.26
+13:03:44,person,0.59,ahead,far,0.21
+13:03:45,person,0.44,ahead,near,0.26
+13:03:45,person,0.56,ahead,far,0.21
+13:03:46,person,0.41,ahead,near,0.26
+13:03:46,person,0.58,ahead,far,0.21
+13:03:47,person,0.62,ahead,far,0.21
+13:03:48,person,0.45,ahead,near,0.26
+13:03:48,person,0.53,ahead,far,0.22
+13:03:49,person,0.76,ahead,far,0.23
+13:03:51,person,0.70,ahead,far,0.23
+13:03:52,person,0.75,ahead,far,0.23
+13:03:53,person,0.70,ahead,far,0.23
+13:03:54,person,0.46,ahead,near,0.28
+13:03:54,person,0.53,ahead,far,0.23
+13:03:55,person,0.42,ahead,near,0.28
+13:03:55,person,0.63,ahead,far,0.23
+13:03:56,person,0.44,ahead,near,0.28
+13:03:56,person,0.57,ahead,far,0.23
+13:03:57,person,0.44,ahead,near,0.28
+13:03:57,person,0.57,ahead,far,0.24
+13:03:58,person,0.45,ahead,near,0.28
+13:03:58,person,0.57,ahead,far,0.24
+13:04:00,person,0.40,ahead,near,0.28
+13:04:00,person,0.64,ahead,far,0.23
+13:04:01,person,0.57,ahead,far,0.23
+13:04:02,person,0.65,ahead,far,0.24
+13:04:03,person,0.86,on your left,near,0.33
+13:04:04,person,0.59,on your left,far,0.24
+13:06:14,person,0.87,on your left,near,0.26
+13:06:16,person,0.92,on your left,near,0.34
+13:06:17,person,0.78,on your left,near,0.34
+13:06:18,person,0.87,on your left,near,0.38
+13:06:37,person,0.88,on your left,near,0.27
+13:11:34,person,0.76,on your left,near,0.30
+13:11:36,person,0.91,on your left,near,0.42
+13:11:37,person,0.93,on your left,very close,0.53
+13:11:38,person,0.94,on your left,very close,0.52
+13:11:39,person,0.92,on your left,very close,0.52
+13:47:36,person,0.60,on your left,near,0.33
+13:47:37,person,0.93,on your left,near,0.44
+13:47:38,person,0.85,ahead,near,0.50
+13:47:38,tie,0.41,ahead,far,0.20
+13:47:39,person,0.92,on your left,very close,0.51
+13:47:40,person,0.93,on your left,very close,0.52
+13:47:41,person,0.93,on your left,very close,0.51
+13:47:42,person,0.93,on your left,near,0.49
+13:47:44,person,0.91,on your left,near,0.42
+13:47:45,person,0.87,ahead,near,0.29
+13:47:46,person,0.85,ahead,near,0.29
+13:47:47,person,0.86,ahead,near,0.28
+13:47:48,person,0.88,ahead,near,0.28
+13:47:49,person,0.88,ahead,near,0.27
+13:47:50,person,0.89,ahead,near,0.28
+13:47:51,person,0.87,ahead,near,0.27
+13:47:52,person,0.87,ahead,near,0.28
+13:47:53,person,0.87,ahead,near,0.28
+13:47:55,person,0.82,ahead,near,0.28
+13:47:56,person,0.85,ahead,near,0.28
+13:47:57,person,0.85,ahead,near,0.28
+13:47:58,person,0.79,ahead,near,0.28
+13:47:59,person,0.85,ahead,near,0.28
+13:48:00,person,0.85,ahead,near,0.28
+13:48:01,person,0.78,ahead,near,0.28
+13:48:02,person,0.65,ahead,near,0.26
+13:48:03,person,0.67,ahead,near,0.28
+13:48:04,person,0.68,ahead,near,0.26
+13:48:05,person,0.76,ahead,near,0.26
+13:48:07,person,0.66,ahead,near,0.28
+13:48:08,person,0.64,ahead,near,0.26
+13:48:09,person,0.77,ahead,near,0.25
+13:48:10,person,0.71,ahead,near,0.26
+13:48:11,person,0.86,ahead,near,0.28
+13:48:12,person,0.79,ahead,near,0.27
+13:48:13,person,0.81,ahead,near,0.28
+13:48:14,person,0.77,ahead,near,0.27
+13:48:15,person,0.80,ahead,near,0.28
+13:48:16,person,0.87,ahead,near,0.28
+13:48:17,person,0.87,ahead,near,0.27
+13:48:19,person,0.88,ahead,near,0.27
+13:48:20,person,0.86,ahead,near,0.27
+13:48:21,person,0.86,ahead,near,0.28
+13:48:22,person,0.86,ahead,near,0.28
+13:48:23,person,0.86,ahead,near,0.28
+13:48:24,person,0.84,ahead,near,0.28
+13:48:25,person,0.79,ahead,near,0.26
+13:48:26,person,0.79,ahead,near,0.26
+13:48:27,person,0.79,ahead,near,0.27
+13:48:28,person,0.79,ahead,near,0.27
+13:48:30,person,0.82,ahead,near,0.28
+13:48:31,person,0.75,ahead,near,0.27
+13:48:32,person,0.77,ahead,near,0.27
+13:48:33,person,0.76,ahead,near,0.26
+13:48:34,person,0.75,ahead,near,0.27
+13:48:35,person,0.78,ahead,near,0.27
+13:48:36,person,0.77,ahead,near,0.27
+13:48:37,person,0.80,ahead,near,0.27
+13:48:38,person,0.77,ahead,near,0.27
+13:48:39,person,0.82,ahead,near,0.28
+13:48:41,person,0.80,ahead,near,0.26
+13:48:42,person,0.84,ahead,near,0.26
+13:48:43,person,0.85,ahead,near,0.27
+13:48:44,person,0.83,ahead,near,0.27
+13:48:45,person,0.82,ahead,near,0.27
+13:48:46,person,0.82,ahead,near,0.26
+13:48:47,person,0.82,ahead,far,0.24
+13:48:48,person,0.75,ahead,far,0.23
+13:48:48,laptop,0.42,ahead,far,0.10
+13:48:49,person,0.72,ahead,near,0.27
+13:48:50,person,0.64,ahead,near,0.27
+13:48:52,person,0.77,on your left,near,0.26
+13:48:52,kite,0.46,ahead,far,0.10
+13:48:53,person,0.72,ahead,far,0.24
+13:48:54,person,0.76,ahead,near,0.25
+13:48:54,kite,0.41,ahead,far,0.10
+13:48:55,person,0.83,ahead,near,0.27
+13:48:56,person,0.75,ahead,near,0.27
+13:48:56,kite,0.48,ahead,far,0.10
+13:48:57,person,0.73,on your left,near,0.25
+13:48:57,kite,0.46,ahead,far,0.10
+13:48:58,person,0.74,on your left,near,0.26
+13:48:59,person,0.83,ahead,near,0.28
+13:49:00,person,0.82,ahead,near,0.27
+13:49:01,person,0.77,ahead,near,0.27
+13:49:01,kite,0.41,ahead,far,0.10
+13:49:03,person,0.81,ahead,near,0.27
+13:49:04,person,0.81,ahead,near,0.27
+13:49:05,person,0.78,ahead,near,0.27
+13:49:06,person,0.77,ahead,near,0.28
+13:49:07,person,0.84,ahead,near,0.28
+13:49:07,kite,0.41,ahead,far,0.10
+13:49:08,person,0.77,ahead,near,0.27
+13:49:08,kite,0.42,ahead,far,0.10
+13:49:09,person,0.88,ahead,near,0.28
+13:49:09,kite,0.45,ahead,far,0.11
+13:49:10,person,0.85,ahead,near,0.25
+13:49:10,kite,0.47,ahead,far,0.10
+13:49:11,person,0.82,ahead,near,0.27
+13:49:12,person,0.85,ahead,near,0.27
+13:49:14,person,0.82,ahead,near,0.26
+13:49:15,person,0.78,ahead,near,0.26
+13:49:16,person,0.80,ahead,near,0.26
+13:49:17,person,0.78,ahead,near,0.26
+13:49:18,person,0.79,ahead,near,0.27
+13:49:19,person,0.80,on your left,near,0.25
+13:49:20,person,0.84,on your left,near,0.25
+13:49:21,person,0.80,ahead,near,0.27
+13:49:21,kite,0.45,ahead,far,0.10
+13:49:22,person,0.81,ahead,near,0.26
+13:49:23,person,0.87,ahead,far,0.24
+13:49:24,person,0.83,ahead,near,0.26
+13:49:26,person,0.86,on your left,near,0.25
+13:49:26,kite,0.48,ahead,far,0.10
+13:49:27,person,0.88,on your left,far,0.25
+13:49:28,person,0.87,on your left,near,0.25
+13:49:28,kite,0.56,ahead,far,0.10
+13:49:29,person,0.88,on your left,far,0.25
+13:49:30,person,0.84,on your left,far,0.25
+13:49:31,person,0.89,ahead,near,0.27
+13:49:32,person,0.90,ahead,near,0.27
+13:49:33,person,0.87,ahead,near,0.27
+13:49:34,person,0.87,ahead,near,0.27
+13:49:35,person,0.89,ahead,near,0.27
+13:49:36,person,0.88,ahead,near,0.27
+13:49:38,person,0.89,ahead,near,0.27
+13:49:39,person,0.88,ahead,near,0.27
+13:49:40,person,0.86,ahead,near,0.27
+13:49:41,person,0.84,ahead,near,0.27
+13:49:42,person,0.86,ahead,near,0.26
+13:49:43,person,0.88,on your left,near,0.27
+13:49:44,person,0.86,ahead,near,0.26
+13:49:45,person,0.88,on your left,near,0.26
+13:49:46,person,0.89,on your left,near,0.26
+13:49:47,person,0.89,on your left,near,0.25
+13:49:49,person,0.91,on your left,near,0.26
+13:49:50,person,0.91,on your left,near,0.26
+13:49:51,person,0.90,on your left,near,0.25
+13:49:52,person,0.89,on your left,far,0.25
+13:49:53,person,0.89,on your left,far,0.25
+13:49:54,person,0.91,on your left,near,0.25
+13:49:55,person,0.91,on your left,near,0.25
+13:49:56,person,0.90,on your left,near,0.25
+13:49:57,person,0.91,on your left,near,0.25
+13:49:58,person,0.91,on your left,near,0.25
+13:49:59,person,0.89,on your left,far,0.25
+13:50:01,person,0.87,on your left,far,0.25
+13:50:02,person,0.88,on your left,far,0.25
+13:50:03,person,0.89,on your left,far,0.25
+13:50:04,person,0.89,on your left,far,0.25
+13:50:05,person,0.90,on your left,far,0.25
+13:50:06,person,0.91,on your left,near,0.25
+13:50:07,person,0.91,on your left,near,0.25
+13:50:08,person,0.91,on your left,near,0.26
+13:50:09,person,0.86,on your left,near,0.32
+13:50:10,person,0.92,on your left,near,0.28
+13:50:12,person,0.92,on your left,near,0.28
+13:50:13,person,0.93,on your left,near,0.27
+13:50:14,person,0.91,on your left,near,0.27
+13:50:15,person,0.92,on your left,near,0.27
+13:50:16,person,0.91,on your left,near,0.27
+13:50:17,person,0.91,on your left,near,0.27
+13:50:18,person,0.90,on your left,near,0.27
+13:50:19,person,0.91,on your left,near,0.27
+13:50:20,person,0.91,on your left,near,0.27
+13:50:21,person,0.91,on your left,near,0.27
+13:50:22,person,0.91,on your left,near,0.27
+13:50:24,person,0.92,on your left,near,0.27
+13:50:25,person,0.91,on your left,near,0.27
+13:50:26,person,0.91,on your left,near,0.27
+13:50:27,person,0.92,on your left,near,0.27
+13:50:28,person,0.90,on your left,near,0.26
+13:50:29,person,0.92,on your left,near,0.27
+13:50:30,person,0.91,on your left,near,0.28
+13:50:31,person,0.91,on your left,near,0.27
+13:50:32,person,0.91,on your left,near,0.27
+13:50:33,person,0.91,on your left,near,0.28
+13:50:34,person,0.91,on your left,near,0.31
+13:50:36,person,0.92,on your left,near,0.32
+13:50:37,person,0.92,on your left,near,0.32
+13:50:38,person,0.92,on your left,near,0.31
+13:50:39,person,0.92,on your left,near,0.31
+13:50:40,person,0.91,on your left,near,0.31
+13:50:41,person,0.91,on your left,near,0.31
+13:50:42,person,0.87,on your left,near,0.29
+13:50:43,person,0.92,on your left,near,0.29
+13:50:44,person,0.86,on your left,near,0.29
+13:50:45,person,0.88,on your left,near,0.28
+13:50:47,person,0.89,on your left,near,0.28
+13:50:48,person,0.90,on your left,near,0.28
+13:50:49,person,0.90,on your left,near,0.28
+13:50:50,person,0.89,on your left,near,0.28
+13:50:51,person,0.88,on your left,near,0.27
+13:50:52,person,0.90,on your left,near,0.27
+13:50:53,person,0.86,on your left,near,0.27
+13:50:54,person,0.86,on your left,near,0.27
+13:50:55,person,0.89,on your left,near,0.28
+13:50:56,person,0.89,on your left,near,0.28
+13:50:58,person,0.88,on your left,near,0.28
+13:50:59,person,0.88,on your left,near,0.28
+13:51:00,person,0.87,on your left,near,0.28
+13:51:01,person,0.88,on your left,near,0.28
+13:51:02,person,0.88,on your left,near,0.28
+13:51:03,person,0.87,on your left,near,0.28
+13:51:04,person,0.88,on your left,near,0.28
+13:51:05,person,0.88,on your left,near,0.28
+13:51:06,person,0.85,on your left,near,0.28
+13:51:07,person,0.85,on your left,near,0.28
+13:51:08,person,0.84,on your left,near,0.28
+13:51:10,person,0.83,on your left,near,0.29
+13:51:11,person,0.83,on your left,near,0.29
+13:51:12,person,0.84,on your left,near,0.28
+13:51:13,person,0.87,on your left,near,0.28
+13:51:14,person,0.85,on your left,near,0.28
+13:51:15,person,0.86,on your left,near,0.28
+13:51:16,person,0.83,on your left,near,0.28
+13:51:17,person,0.84,on your left,near,0.28
+13:51:18,person,0.84,on your left,near,0.28
+13:51:19,person,0.84,on your left,near,0.28
+13:51:21,person,0.83,on your left,near,0.28
+13:51:22,person,0.86,on your left,near,0.28
+13:51:23,person,0.84,on your left,near,0.28
+13:51:24,person,0.83,on your left,near,0.28
+13:51:25,person,0.83,on your left,near,0.28
+13:51:26,person,0.84,on your left,near,0.28
+13:51:27,person,0.87,on your left,near,0.28
+13:51:28,person,0.87,on your left,near,0.28
+13:51:29,person,0.82,on your left,near,0.28
+13:51:30,person,0.85,on your left,near,0.29
+13:51:31,person,0.83,on your left,near,0.28
+13:51:32,person,0.84,on your left,near,0.28
+13:51:34,person,0.82,on your left,near,0.29
+13:51:35,person,0.87,on your left,near,0.29
+13:51:36,person,0.84,on your left,near,0.28
+13:51:37,person,0.85,on your left,near,0.28
+13:51:38,person,0.85,on your left,near,0.28
+13:51:39,person,0.85,on your left,near,0.28
+13:51:40,person,0.84,on your left,near,0.29
+13:51:41,person,0.83,on your left,near,0.29
+13:51:42,person,0.83,on your left,near,0.28
+13:51:43,person,0.86,on your left,near,0.28
+13:51:44,person,0.85,on your left,near,0.28
+13:51:45,person,0.91,on your left,near,0.28
+13:51:46,person,0.88,on your left,near,0.29
+13:51:48,person,0.87,on your left,near,0.29
+13:51:49,person,0.88,on your left,near,0.29
+13:51:50,person,0.88,on your left,near,0.29
+13:51:51,person,0.89,on your left,near,0.29
+13:51:52,person,0.88,on your left,near,0.29
+13:51:53,person,0.87,on your left,near,0.29
+13:51:54,person,0.88,on your left,near,0.29
+13:51:55,person,0.88,on your left,near,0.29
+13:51:56,person,0.87,on your left,near,0.29
+13:51:57,person,0.89,on your left,near,0.28
+13:51:58,person,0.86,on your left,near,0.28
+13:51:59,person,0.87,on your left,near,0.28
+13:52:00,person,0.87,on your left,near,0.29
+13:52:01,person,0.86,on your left,near,0.28
+13:52:02,person,0.87,on your left,near,0.28
+13:52:03,person,0.88,on your left,near,0.28
+13:52:05,person,0.88,on your left,near,0.28
+13:52:06,person,0.88,on your left,near,0.28
+13:52:07,person,0.88,on your left,near,0.28
+13:52:08,person,0.88,on your left,near,0.29
+13:52:09,person,0.87,on your left,near,0.29
+13:52:10,person,0.87,on your left,near,0.29
+13:52:11,person,0.87,on your left,near,0.29
+13:52:12,person,0.86,on your left,near,0.28
+13:52:13,person,0.88,on your left,near,0.28
+13:52:14,person,0.89,on your left,near,0.28
+13:52:15,person,0.88,on your left,near,0.28
+13:52:16,person,0.88,on your left,near,0.28
+13:52:17,person,0.87,on your left,near,0.29
+13:52:18,person,0.87,on your left,near,0.29
+13:52:19,person,0.88,on your left,near,0.29
+13:52:21,person,0.86,on your left,near,0.29
+13:52:22,person,0.85,on your left,near,0.29
+13:52:23,person,0.87,on your left,near,0.29
+13:52:24,person,0.86,on your left,near,0.29
+13:52:25,person,0.86,on your left,near,0.29
+13:52:26,person,0.87,on your left,near,0.29
+13:52:27,person,0.88,on your left,near,0.29
+13:52:28,person,0.88,on your left,near,0.29
+13:52:29,person,0.88,on your left,near,0.29
+13:52:30,person,0.88,on your left,near,0.29
+13:52:31,person,0.86,on your left,near,0.28
+13:52:32,person,0.87,on your left,near,0.28
+13:52:33,person,0.88,on your left,near,0.29
+13:52:34,person,0.87,on your left,near,0.29
+13:52:35,person,0.87,on your left,near,0.29
+13:52:36,person,0.88,on your left,near,0.29
+13:52:37,person,0.87,on your left,near,0.29
+13:52:39,person,0.89,on your left,near,0.28
+13:52:40,person,0.89,on your left,near,0.28
+13:52:41,person,0.87,on your left,near,0.29
+13:52:42,person,0.88,on your left,near,0.29
+13:52:43,person,0.87,on your left,near,0.29
+13:52:44,person,0.87,on your left,near,0.28
+13:52:45,person,0.88,on your left,near,0.29
+13:52:46,person,0.88,on your left,near,0.29
+13:52:47,person,0.87,on your left,near,0.29
+13:52:48,person,0.87,on your left,near,0.29
+13:52:49,person,0.89,on your left,near,0.28
+13:52:50,person,0.89,on your left,near,0.28
+13:52:51,person,0.90,on your left,near,0.28
+13:52:52,person,0.89,on your left,near,0.28
+13:52:53,person,0.89,on your left,near,0.28
+13:52:55,person,0.88,on your left,near,0.28
+13:52:56,person,0.88,on your left,near,0.29
+13:52:57,person,0.88,on your left,near,0.29
+13:52:58,person,0.88,on your left,near,0.29
+13:52:59,person,0.87,on your left,near,0.29
+13:53:00,person,0.87,on your left,near,0.29
+13:53:01,person,0.87,on your left,near,0.29
+13:53:02,person,0.88,on your left,near,0.28
+13:53:04,person,0.89,on your left,near,0.28
+13:53:05,person,0.88,on your left,near,0.28
+13:53:06,person,0.88,on your left,near,0.28
+13:53:07,person,0.88,on your left,near,0.28
+13:53:08,person,0.87,on your left,near,0.29
+13:53:09,person,0.88,on your left,near,0.28
+13:53:10,person,0.89,on your left,near,0.28
+13:53:11,person,0.88,on your left,near,0.29
+13:53:13,person,0.88,on your left,near,0.29
+13:53:14,person,0.87,on your left,near,0.29
+13:53:15,person,0.86,on your left,near,0.29
+13:53:16,person,0.87,on your left,near,0.29
+13:53:17,person,0.88,on your left,near,0.29
+13:53:18,person,0.87,on your left,near,0.28
+13:53:19,person,0.87,on your left,near,0.28
+13:53:20,person,0.88,on your left,near,0.28
+13:53:22,person,0.89,on your left,near,0.28
+13:53:23,person,0.87,on your left,near,0.28
+13:53:24,person,0.87,on your left,near,0.28
+13:53:25,person,0.87,on your left,near,0.28
+13:53:26,person,0.87,on your left,near,0.28
+13:53:27,person,0.87,on your left,near,0.28
+13:53:28,person,0.88,on your left,near,0.28
+13:53:29,person,0.89,on your left,near,0.28
+13:53:30,person,0.88,on your left,near,0.28
+13:53:31,person,0.88,on your left,near,0.28
+13:53:32,person,0.88,on your left,near,0.28
+13:53:33,person,0.88,on your left,near,0.28
+13:53:34,person,0.89,on your left,near,0.28
+13:53:35,person,0.86,on your left,near,0.29
+13:53:36,person,0.88,on your left,near,0.29
+13:53:37,person,0.88,on your left,near,0.29
+13:53:39,person,0.89,on your left,near,0.29
+13:53:40,person,0.88,on your left,near,0.28
+13:53:41,person,0.87,on your left,near,0.29
+13:53:42,person,0.88,on your left,near,0.28
+13:53:43,person,0.89,on your left,near,0.29
+13:53:44,person,0.89,on your left,near,0.28
+13:53:45,person,0.88,on your left,near,0.29
+13:53:46,person,0.87,on your left,near,0.29
+13:53:47,person,0.87,on your left,near,0.29
+13:53:48,person,0.87,on your left,near,0.28
+13:53:49,person,0.87,on your left,near,0.28
+13:53:50,person,0.87,on your left,near,0.28
+13:53:51,person,0.89,on your left,near,0.28
+13:53:53,person,0.89,on your left,near,0.28
+13:53:54,person,0.89,on your left,near,0.28
+13:53:55,person,0.87,on your left,near,0.28
+13:53:56,person,0.87,on your left,near,0.29
+13:53:57,person,0.86,on your left,near,0.29
+13:53:58,person,0.88,on your left,near,0.29
+13:53:59,person,0.86,on your left,near,0.29
+13:54:00,person,0.89,on your left,near,0.28
+13:54:01,person,0.89,on your left,near,0.28
+13:54:02,person,0.88,on your left,near,0.28
+13:54:03,person,0.88,on your left,near,0.28
+13:54:04,person,0.88,on your left,near,0.28
+13:54:05,person,0.89,on your left,near,0.28
+13:54:06,person,0.88,on your left,near,0.28
+13:54:07,person,0.88,on your left,near,0.28
+13:54:09,person,0.89,on your left,near,0.28
+13:54:10,person,0.87,on your left,near,0.28
+13:54:11,person,0.85,on your left,near,0.28
+13:54:12,person,0.84,on your left,near,0.28
+13:54:13,person,0.84,on your left,near,0.28
+13:54:14,person,0.86,on your left,near,0.29
+13:54:15,person,0.84,on your left,near,0.29
+13:54:16,person,0.82,on your left,near,0.28
+13:54:17,person,0.87,on your left,near,0.28
+13:54:18,person,0.85,on your left,near,0.28
+13:54:19,person,0.88,on your left,near,0.28
+13:54:21,person,0.89,on your left,near,0.28
+13:54:22,person,0.88,on your left,near,0.28
+13:54:23,person,0.89,on your left,near,0.28
+13:54:24,person,0.86,on your left,near,0.28
+13:54:25,person,0.85,on your left,near,0.28
+13:54:26,person,0.88,on your left,near,0.28
+13:54:27,person,0.88,on your left,near,0.28
+13:54:28,person,0.87,on your left,near,0.28
+13:54:29,person,0.86,on your left,near,0.29
+13:54:30,person,0.89,on your left,near,0.28
+13:54:31,person,0.89,on your left,near,0.28
+13:54:33,person,0.85,on your left,near,0.28
+13:54:34,person,0.88,on your left,near,0.28
+13:54:35,person,0.88,on your left,near,0.28
+13:54:36,person,0.88,on your left,near,0.28
+13:54:37,person,0.88,on your left,near,0.28
+13:54:38,person,0.89,on your left,near,0.28
+13:54:39,person,0.89,on your left,near,0.28
+13:54:40,person,0.90,on your left,near,0.28
+13:54:41,person,0.89,on your left,near,0.28
+13:54:42,person,0.87,on your left,near,0.28
+13:54:43,person,0.88,on your left,near,0.28
+13:54:44,person,0.89,on your left,near,0.28
+13:54:45,person,0.89,on your left,near,0.28
+13:54:46,person,0.90,on your left,near,0.32
+13:54:47,person,0.88,on your left,near,0.30
+13:54:48,person,0.82,on your left,far,0.19
+13:54:50,person,0.55,ahead,far,0.18
+13:54:51,person,0.69,ahead,far,0.11
+13:54:52,person,0.65,ahead,far,0.07
+13:54:53,person,0.76,ahead,far,0.09
+13:54:55,person,0.84,ahead,far,0.19
+13:54:56,person,0.80,ahead,far,0.20
+13:54:57,person,0.85,ahead,far,0.20
+13:54:58,person,0.85,ahead,far,0.19
+13:54:59,person,0.84,ahead,far,0.21
+13:55:01,person,0.81,ahead,far,0.10
+13:55:02,person,0.81,ahead,far,0.09
+13:55:03,person,0.81,ahead,far,0.15
+13:55:05,person,0.83,ahead,far,0.18
+13:55:06,person,0.77,ahead,near,0.28
+13:55:07,person,0.62,ahead,far,0.14
+13:55:08,person,0.84,ahead,far,0.09
+13:55:11,person,0.77,ahead,far,0.20
+13:55:12,person,0.67,ahead,far,0.16
+13:55:15,person,0.82,on your left,far,0.15
+13:55:17,person,0.76,ahead,far,0.18
+13:55:19,person,0.78,ahead,far,0.18
+13:55:20,person,0.66,ahead,far,0.14
+13:55:21,person,0.67,on your left,far,0.10
+13:55:22,person,0.46,ahead,far,0.16
+13:55:22,cat,0.51,ahead,far,0.16
+13:55:24,person,0.86,ahead,far,0.19
+13:55:25,person,0.86,ahead,far,0.17
+13:55:28,person,0.83,ahead,far,0.13
+13:55:29,person,0.84,ahead,far,0.14
+13:55:30,person,0.83,ahead,far,0.14
+13:55:31,person,0.82,ahead,far,0.14
+13:55:33,person,0.83,ahead,far,0.14
+13:55:34,person,0.84,ahead,far,0.14
+13:55:35,person,0.83,ahead,far,0.14
+13:55:36,person,0.83,ahead,far,0.14
+13:55:37,person,0.82,ahead,far,0.14
+13:55:38,person,0.80,ahead,far,0.14
+13:55:39,person,0.80,ahead,far,0.14
+13:55:40,person,0.64,ahead,far,0.14
+13:55:41,person,0.82,ahead,far,0.14
+13:55:42,person,0.80,ahead,far,0.13
+13:55:43,person,0.80,ahead,far,0.13
+13:55:44,person,0.69,ahead,far,0.13
+13:55:45,person,0.80,ahead,far,0.13
+13:55:47,person,0.82,ahead,far,0.14
+13:55:48,person,0.84,ahead,far,0.14
+13:55:49,person,0.82,ahead,far,0.14
+13:55:50,person,0.82,ahead,far,0.14
+13:55:51,person,0.80,ahead,far,0.13
+13:55:52,person,0.83,ahead,far,0.14
+13:55:55,person,0.84,ahead,far,0.14
+13:55:56,person,0.84,ahead,far,0.15
+13:56:15,person,0.85,ahead,far,0.14
+13:56:16,person,0.83,ahead,far,0.14
+13:56:17,person,0.83,ahead,far,0.13
+13:56:18,person,0.82,ahead,far,0.13
+13:56:19,person,0.84,ahead,far,0.13
+13:56:20,person,0.84,ahead,far,0.13
+13:56:21,person,0.83,ahead,far,0.13
+13:56:22,person,0.82,ahead,far,0.13
+13:56:24,person,0.83,ahead,far,0.13
+13:56:25,person,0.83,ahead,far,0.13
+13:56:26,person,0.78,ahead,far,0.13
+13:56:27,person,0.83,ahead,far,0.14
+13:56:29,person,0.82,ahead,far,0.13
+13:56:30,person,0.83,ahead,far,0.14
+13:56:46,person,0.77,on your right,near,0.35
+13:56:46,tie,0.51,on your right,far,0.10
+13:56:47,person,0.82,on your right,near,0.33
+13:56:47,tie,0.59,on your right,far,0.10
+13:56:50,person,0.50,on your right,near,0.32
+13:56:51,person,0.52,on your right,near,0.31
+13:56:52,person,0.50,on your right,near,0.29
+13:56:54,person,0.68,on your right,near,0.27
+13:56:55,person,0.52,on your right,near,0.28
+13:56:57,person,0.44,on your right,near,0.27
+13:56:58,person,0.47,on your right,near,0.27
+13:56:59,person,0.72,ahead,near,0.28
+13:57:00,person,0.81,ahead,far,0.14
+13:57:01,person,0.73,ahead,far,0.10
+13:57:03,person,0.83,ahead,far,0.12
+13:57:04,person,0.86,ahead,far,0.15
+13:57:05,person,0.87,ahead,far,0.14
+13:57:06,person,0.86,ahead,far,0.15
+13:57:07,person,0.78,ahead,far,0.14
+13:57:08,person,0.79,ahead,far,0.14
+13:57:09,person,0.84,ahead,far,0.13
+13:57:10,person,0.75,ahead,far,0.13
+13:57:11,person,0.85,ahead,far,0.14
+13:57:12,person,0.85,ahead,far,0.14
+13:57:13,person,0.84,ahead,far,0.14
+13:57:15,person,0.84,ahead,far,0.14
+13:57:16,person,0.74,ahead,far,0.14
+13:57:17,person,0.74,ahead,far,0.14
+13:57:18,person,0.84,ahead,far,0.13
+13:57:19,person,0.85,ahead,far,0.14
+13:57:20,person,0.82,ahead,far,0.14
+13:57:21,person,0.83,ahead,far,0.14
+13:57:22,person,0.85,ahead,far,0.14
+13:57:23,person,0.83,ahead,far,0.14
+13:57:24,person,0.82,ahead,far,0.14
+13:57:25,person,0.84,ahead,far,0.14
+13:57:27,person,0.84,ahead,far,0.13
+13:57:28,person,0.83,ahead,far,0.14
+13:57:29,person,0.84,ahead,far,0.13
+13:57:30,person,0.83,ahead,far,0.13
+13:57:31,person,0.85,ahead,far,0.14
+13:57:32,person,0.84,ahead,far,0.14
+13:57:35,person,0.86,ahead,far,0.13
+13:57:36,person,0.84,ahead,far,0.13
+13:57:54,person,0.86,ahead,far,0.14
+13:57:55,person,0.86,ahead,far,0.14
+13:57:56,person,0.83,ahead,far,0.13
+13:57:57,person,0.84,ahead,far,0.14
+13:57:58,person,0.84,ahead,far,0.13
+13:58:00,person,0.83,ahead,far,0.13
+13:58:01,person,0.83,ahead,far,0.13
+13:58:02,person,0.83,ahead,far,0.13
+13:58:03,person,0.84,ahead,far,0.14
+13:58:04,person,0.83,ahead,far,0.13
+13:58:06,person,0.84,ahead,far,0.13
+13:58:07,person,0.84,ahead,far,0.13
+13:58:08,person,0.84,ahead,far,0.13
+13:58:09,person,0.85,ahead,far,0.14
+13:58:10,person,0.63,ahead,far,0.10
+13:58:11,person,0.84,ahead,far,0.13
+13:58:12,person,0.84,ahead,far,0.13
+13:58:39,person,0.86,ahead,far,0.14
+13:58:40,person,0.84,ahead,far,0.13
+13:58:41,person,0.82,ahead,far,0.13
+13:58:42,person,0.83,ahead,far,0.13
+13:58:43,person,0.83,ahead,far,0.13
+13:58:45,person,0.84,ahead,far,0.13
+13:58:46,person,0.82,ahead,far,0.13
+13:58:47,person,0.81,ahead,far,0.13
+13:58:48,person,0.83,ahead,far,0.13
+13:58:49,person,0.83,ahead,far,0.13
+13:58:50,person,0.85,ahead,far,0.13
+13:59:15,person,0.84,ahead,far,0.14
+13:59:16,person,0.84,ahead,far,0.13
+13:59:17,person,0.85,ahead,far,0.13
+13:59:18,person,0.85,ahead,far,0.13
+13:59:19,person,0.83,ahead,far,0.13
+13:59:20,person,0.83,ahead,far,0.13
+13:59:21,person,0.84,ahead,far,0.13
+13:59:22,person,0.83,ahead,far,0.13
+13:59:23,person,0.82,ahead,far,0.13
+13:59:24,person,0.44,ahead,far,0.08
+13:59:25,person,0.84,ahead,far,0.13
+13:59:26,person,0.84,ahead,far,0.13
+14:00:18,person,0.76,ahead,far,0.14
+14:00:20,person,0.71,ahead,far,0.22
+14:00:21,person,0.49,on your right,near,0.32
+14:00:22,person,0.63,on your right,near,0.34
+14:00:23,person,0.46,on your right,near,0.35
+14:00:25,person,0.85,ahead,near,0.26
+14:00:26,person,0.85,ahead,far,0.17
+14:00:27,person,0.87,on your left,near,0.25
+14:00:28,person,0.90,on your left,near,0.28
+14:00:29,person,0.56,on your left,near,0.42
+14:00:30,person,0.86,on your left,near,0.33
+14:00:31,person,0.90,on your left,near,0.35
+14:00:32,person,0.92,on your left,near,0.35
+14:00:33,person,0.92,on your left,near,0.35
+14:00:35,person,0.92,on your left,near,0.35
+14:00:36,person,0.91,on your left,near,0.35
+14:00:37,person,0.91,on your left,near,0.35
+14:00:38,person,0.91,on your left,near,0.35
+14:00:39,person,0.92,on your left,near,0.35
+14:00:40,person,0.93,on your left,near,0.35
+14:00:41,person,0.91,on your left,near,0.34
+14:00:42,person,0.92,on your left,near,0.35
+14:00:43,person,0.92,on your left,near,0.35
+14:00:44,person,0.93,on your left,near,0.34
+14:00:46,person,0.94,on your left,near,0.34
+14:00:47,person,0.93,on your left,near,0.34
+14:00:48,person,0.94,on your left,near,0.34
+14:00:49,person,0.94,on your left,near,0.35
+14:00:50,person,0.93,on your left,near,0.34
+14:00:51,person,0.93,on your left,near,0.34
+14:00:52,person,0.92,on your left,near,0.34
+14:00:53,person,0.93,on your left,near,0.34
+14:00:54,person,0.93,on your left,near,0.34
+14:00:55,person,0.93,on your left,near,0.34
+14:00:56,person,0.94,on your left,near,0.34
+14:00:58,person,0.91,on your left,near,0.34
+14:00:59,person,0.93,on your left,near,0.34
+14:01:00,person,0.93,on your left,near,0.34
+14:01:01,person,0.94,on your left,near,0.35
+14:01:02,person,0.93,on your left,near,0.35
+14:01:03,person,0.91,on your left,near,0.35
+14:01:18,person,0.85,on your left,near,0.39
+14:02:25,person,0.80,on your left,near,0.32
+14:02:26,person,0.87,ahead,very close,0.75
+14:02:28,person,0.85,ahead,near,0.29
+14:02:29,person,0.76,ahead,far,0.24
+14:02:30,person,0.69,ahead,far,0.24
+14:02:31,person,0.78,ahead,near,0.25
+14:02:32,person,0.75,ahead,far,0.25
+14:02:33,person,0.76,ahead,near,0.25
+14:02:34,person,0.77,ahead,near,0.26
+14:02:35,person,0.80,ahead,near,0.25
+14:02:36,person,0.78,ahead,near,0.26
+14:02:37,person,0.69,ahead,near,0.26
+14:02:38,person,0.70,ahead,near,0.25
+14:02:39,person,0.68,ahead,near,0.25
+14:02:41,person,0.71,ahead,near,0.25
+14:02:42,person,0.70,ahead,near,0.25
+14:02:43,person,0.73,ahead,near,0.26
+14:02:44,person,0.69,ahead,near,0.25
+14:02:45,person,0.69,ahead,far,0.25
+14:02:46,person,0.69,ahead,far,0.25
+14:02:47,person,0.69,ahead,far,0.25
+14:02:48,person,0.73,ahead,near,0.25
+14:02:49,person,0.69,ahead,far,0.25
+14:02:50,person,0.77,ahead,near,0.25
+14:02:51,person,0.79,ahead,near,0.25
+14:02:52,person,0.75,ahead,far,0.25
+14:02:53,person,0.80,ahead,near,0.25
+14:02:55,person,0.77,ahead,far,0.25
+14:02:56,person,0.69,ahead,near,0.25
+14:02:57,person,0.75,ahead,near,0.25
+14:02:58,person,0.72,ahead,far,0.25
+14:02:59,person,0.71,ahead,far,0.24
+14:03:00,person,0.65,ahead,near,0.25
+14:03:01,person,0.72,ahead,near,0.26
+14:03:02,person,0.73,ahead,far,0.25
+14:03:03,person,0.71,ahead,far,0.24
+14:03:04,person,0.70,ahead,far,0.25
+14:03:05,person,0.73,ahead,near,0.25
+14:03:07,person,0.71,ahead,far,0.25
+14:03:08,person,0.73,ahead,far,0.24
+14:03:09,person,0.75,ahead,far,0.23
+14:03:10,person,0.73,ahead,far,0.24
+14:03:11,person,0.71,ahead,far,0.24
+14:03:12,person,0.72,ahead,far,0.24
+14:03:13,person,0.70,ahead,far,0.24
+14:03:14,person,0.70,ahead,far,0.24
+14:03:15,person,0.73,ahead,far,0.24
+14:03:16,person,0.78,ahead,far,0.24
+14:03:17,person,0.77,ahead,far,0.25
+14:03:18,person,0.76,ahead,far,0.24
+14:03:19,person,0.77,ahead,far,0.24
+14:03:21,person,0.78,ahead,far,0.24
+14:03:22,person,0.77,ahead,far,0.25
+14:03:23,person,0.75,ahead,far,0.24
+14:03:24,person,0.78,ahead,far,0.25
+14:03:25,person,0.76,ahead,far,0.25
+14:03:26,person,0.76,ahead,far,0.24
+14:03:27,person,0.76,ahead,far,0.24
+14:03:28,person,0.77,ahead,far,0.24
+14:03:29,person,0.80,ahead,far,0.25
+14:03:31,person,0.74,ahead,far,0.25
+14:03:32,person,0.76,ahead,far,0.25
+14:03:33,person,0.76,ahead,far,0.25
+14:03:34,person,0.72,ahead,far,0.24
+14:03:35,person,0.71,ahead,far,0.24
+14:03:36,person,0.73,ahead,far,0.23
+14:03:37,person,0.75,ahead,near,0.25
+14:03:38,person,0.77,ahead,far,0.25
+14:03:39,person,0.75,ahead,near,0.25
+14:03:41,person,0.76,ahead,far,0.24
+14:03:42,person,0.75,ahead,far,0.25
+14:03:43,person,0.76,ahead,far,0.25
+14:03:44,person,0.76,ahead,far,0.24
+14:03:45,person,0.77,ahead,far,0.24
+14:03:46,person,0.77,ahead,far,0.24
+14:03:47,person,0.76,ahead,far,0.24
+14:03:48,person,0.73,ahead,far,0.25
+14:03:49,person,0.74,ahead,far,0.24
+14:03:50,person,0.75,ahead,far,0.24
+14:03:51,person,0.77,ahead,far,0.25
+14:03:52,person,0.76,ahead,far,0.25
+14:03:53,person,0.74,ahead,far,0.25
+14:03:54,person,0.77,ahead,far,0.24
+14:03:55,person,0.70,ahead,near,0.25
+14:03:56,person,0.69,ahead,far,0.24
+14:03:57,person,0.69,ahead,far,0.24
+14:03:58,person,0.71,ahead,far,0.24
+14:04:00,person,0.67,ahead,far,0.24
+14:04:01,person,0.69,ahead,far,0.24
+14:04:02,person,0.69,ahead,far,0.24
+14:04:03,person,0.70,ahead,far,0.24
+14:04:04,person,0.70,ahead,far,0.24
+14:04:05,person,0.72,ahead,far,0.25
+14:04:06,person,0.73,ahead,far,0.25
+14:04:07,person,0.69,ahead,far,0.25
+14:04:08,person,0.75,ahead,far,0.25
+14:04:09,person,0.77,ahead,far,0.25
+14:04:10,person,0.77,ahead,far,0.24
+14:04:12,person,0.78,ahead,far,0.25
+14:04:13,person,0.70,ahead,far,0.25
+14:04:14,person,0.74,ahead,far,0.25
+14:04:15,person,0.77,ahead,far,0.25
+14:04:16,person,0.77,ahead,far,0.24
+14:04:17,person,0.76,ahead,far,0.25
+14:04:18,person,0.78,ahead,far,0.25
+14:04:19,person,0.76,ahead,near,0.25
+14:04:20,person,0.76,ahead,near,0.25
+14:04:21,person,0.74,ahead,near,0.25
+14:04:22,person,0.74,ahead,near,0.25
+14:04:23,person,0.75,ahead,near,0.25
+14:04:25,person,0.76,ahead,near,0.25
+14:04:26,person,0.75,ahead,near,0.25
+14:04:27,person,0.74,ahead,near,0.25
+14:04:28,person,0.77,ahead,far,0.24
+14:04:29,person,0.81,ahead,near,0.27
+14:04:30,person,0.79,ahead,near,0.25
+14:04:31,person,0.73,ahead,far,0.25
+14:04:32,person,0.73,ahead,near,0.25
+14:04:33,person,0.76,ahead,near,0.26
+14:04:34,person,0.77,ahead,near,0.26
+14:04:35,person,0.76,ahead,near,0.26
+14:04:36,person,0.76,ahead,near,0.25
+14:04:37,person,0.74,ahead,near,0.25
+14:04:38,person,0.68,ahead,near,0.25

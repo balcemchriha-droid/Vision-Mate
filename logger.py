@@ -1,4 +1,4 @@
-"""Step 6 - Log detections to a CSV file (for evaluation / model improvement)."""
+
 import csv
 import os
 import time

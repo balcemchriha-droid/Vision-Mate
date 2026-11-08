@@ -1,7 +1,4 @@
-"""Step 1 - Object detection with a pretrained YOLOv8 model (COCO)."""
 from ultralytics import YOLO
-
-
 class Detector:
     def __init__(self, weights="yolov8n.pt", conf=0.4):
         # First run downloads yolov8n.pt (~6 MB) -> needs internet once.
